@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "sport": "hockey",
+  "generatedAt": "2026-08-30T23:30:02Z",
+  "items": [
+    {
+      "id": "81ed5bead97a169b",
+      "title": "Columbus veut regler le dossier Adam Fantilli avant le camp",
+      "summary": "Le directeur general Don Waddell se dit confiant de s'entendre avec son attaquant avant l'ouverture du camp d'entrainement, le 16 septembre, malgre un ecart persistant sur la valeur du contrat.",
+      "source": "Pro Hockey Rumors",
+      "url": "https://www.prohockeyrumors.com/2026/08/blue-jackets-expect-to-sign-adam-fantilli-before-camp.html",
+      "publishedAt": "2026-08-30T13:58:00Z"
+    },
+    {
+      "id": "062ba0ea8d717f74",
+      "title": "Les Blackhawks retiennent le defenseur Kevin Korchinski",
+      "summary": "Chicago a prolonge son septieme choix au total de 2022 pour deux saisons et 2,65 millions de dollars, soit 1,325 million par annee. Le defenseur de 22 ans a surtout joue dans la Ligue americaine l'an dernier.",
+      "source": "TSN",
+      "url": "https://www.tsn.ca/nhl/article/blackhawks-sign-d-korchinski-to-two-year-265m-contract-extension/",
+      "publishedAt": "2026-08-29T21:22:00Z"
+    },
+    {
+      "id": "f6e73b7986002c21",
+      "title": "Deux eclopes chez les Oilers avant le camp d'entrainement",
+      "summary": "Stan Bowman a indique que l'attaquant Matthew Savoie, blesse a l'entrainement estival, ratera du temps de jeu en saison, et que le cas du gardien Frederik Andersen ne se regle pas au jour le jour.",
+      "source": "Pro Hockey Rumors",
+      "url": "https://www.prohockeyrumors.com/2026/08/stan-bowman-provides-injury-updates-on-matthew-savoie-and-frederik-andersen.html",
+      "publishedAt": "2026-08-29T19:00:00Z"
+    }
+  ]
+}

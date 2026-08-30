@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "sport": "f1",
+  "generatedAt": "2026-08-30T23:30:02Z",
+  "items": [
+    {
+      "id": "c6d0559815606dd2",
+      "title": "Monza : Antonelli relegue en fond de grille pour un moteur neuf",
+      "summary": "Le leader du championnat partira de l'arriere au Grand Prix d'Italie apres un changement de groupe propulseur, ce qui ouvre une breche a ses poursuivants sur le circuit lombard.",
+      "source": "Sky Sports",
+      "url": "https://www.skysports.com/f1/news/12433/13577758/italian-gp-2026-dates-schedule-weather-uk-start-time-and-how-to-watch-or-stream-f1-race-at-monza-live-on-sky-sports",
+      "publishedAt": "2026-08-30T22:04:00Z"
+    },
+    {
+      "id": "5bd1e4055336a111",
+      "title": "Rafael Camara au volant d'une Haas lors d'un essai prive",
+      "summary": "Le champion de Formule 3 en titre, protege de Ferrari, a roule a Portimao sur la Haas VF-25 pendant trois jours, aux cotes de Ryo Hirakawa et Leonardo Fornaroli.",
+      "source": "PlanetF1",
+      "url": "https://www.planetf1.com/news/ferrari-rafael-camara-haas-test-f1-2027",
+      "publishedAt": "2026-08-30T13:55:00Z"
+    },
+    {
+      "id": "4fd0ba266510534f",
+      "title": "Lando Norris prolonge chez McLaren jusqu'en 2030",
+      "summary": "Le Britannique a repousse les approches d'autres ecuries et etendu son engagement jusqu'a fin 2030, avec des options au-dela, quelques jours apres ses succes en Hongrie et a Zandvoort.",
+      "source": "PlanetF1",
+      "url": "https://www.planetf1.com/news/lando-norris-rival-interest-mclaren-contract",
+      "publishedAt": "2026-08-30T12:31:00Z"
+    }
+  ]
+}

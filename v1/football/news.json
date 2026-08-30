@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "sport": "football",
+  "generatedAt": "2026-08-30T23:30:02Z",
+  "items": [
+    {
+      "id": "75ba843697f0f784",
+      "title": "Newcastle fait plier Tottenham 2-0 a Londres",
+      "summary": "Les Spurs restent sans le moindre but apres deux journees de Premier League : Elanga puis Wissa ont marque en seconde periode, offrant a Matthias Jaissle sa premiere victoire sur le banc de Newcastle.",
+      "source": "Sky Sports",
+      "url": "https://www.skysports.com/football/tottenham-hotspur-vs-newcastle-united/report/559463",
+      "publishedAt": "2026-08-29T21:38:00Z"
+    },
+    {
+      "id": "f3965f6e5344d30f",
+      "title": "Lilian Brassier quitte Rennes pour l'Eintracht Francfort",
+      "summary": "Le defenseur central s'engage cinq ans avec le club allemand, jusqu'en juin 2031. Rennes recupere environ 10 millions d'euros, auxquels peuvent s'ajouter 2 millions de bonus.",
+      "source": "Foot Mercato",
+      "url": "https://www.footmercato.net/a1501543622380143028-rennes-cest-boucle-pour-lilian-brassier-a-francfort",
+      "publishedAt": "2026-08-29T16:30:00Z"
+    },
+    {
+      "id": "340ad0b3bf10ce6c",
+      "title": "Le mercato ferme mardi, et la France est la premiere servie",
+      "summary": "Allemagne, Angleterre, Espagne, France et Italie bouclent leur marche des transferts le mardi 1er septembre. Les clubs francais doivent conclure des 19h59, quelques heures avant leurs voisins europeens.",
+      "source": "Footeo",
+      "url": "https://news.footeo.com/2026/08/29/quand-ferme-le-mercato-en-france-et-en-europe-les-dates-de-cloture-pays-par-pays-10166",
+      "publishedAt": "2026-08-29T06:23:00Z"
+    }
+  ]
+}

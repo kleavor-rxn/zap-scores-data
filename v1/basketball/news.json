@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "sport": "basketball",
+  "generatedAt": "2026-08-30T23:30:02Z",
+  "items": [
+    {
+      "id": "124f7649a7768890",
+      "title": "Les enqueteurs s'interessent au proprietaire des Clippers",
+      "summary": "Selon ESPN, les echanges avec Steve Ballmer et ses avocats portent surtout sur un defaut de supervision plutot que sur une preuve directe de contournement du plafond salarial dans le dossier Kawhi Leonard.",
+      "source": "Hoops Rumors",
+      "url": "https://www.hoopsrumors.com/2026/08/investigators-having-conversations-with-steve-ballmer-in-cap-circumvention-case.html",
+      "publishedAt": "2026-08-30T01:54:00Z"
+    },
+    {
+      "id": "464f626c65b4edb6",
+      "title": "Minnesota libere de l'espace salarial pour signer Kuminga",
+      "summary": "Les Timberwolves ont expedie Josh Green au Jazz contre Cody Williams et John Konchar. L'operation leur donne la marge necessaire pour conclure l'entente de deux ans avec Jonathan Kuminga.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nba/story/_/id/49759209/wolves-trade-3-d-wing-josh-green-jazaz",
+      "publishedAt": "2026-08-29T04:57:00Z"
+    }
+  ]
+}
