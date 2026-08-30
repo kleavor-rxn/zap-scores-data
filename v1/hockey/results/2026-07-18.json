@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "sport": "hockey",
+  "scope": "2026-07-18",
+  "generatedAt": "2026-07-18T12:00:00Z",
+  "events": [
+    {
+      "id": "hockey:nhl:2026-07-18:montreal-canadiens-toronto-maple-leafs",
+      "sport": "hockey",
+      "competition": {
+        "id": "nhl",
+        "name": "NHL",
+        "country": "US",
+        "logo": "https://media.api-sports.io/hockey/leagues/57.png"
+      },
+      "startsAt": "2026-07-18T23:00:00Z",
+      "status": "finished",
+      "venue": null,
+      "participants": [
+        {
+          "id": "montreal-canadiens",
+          "name": "Montreal Canadiens",
+          "shortName": "MTL",
+          "logo": "https://media.api-sports.io/hockey/teams/672.png",
+          "score": 4,
+          "winner": true
+        },
+        {
+          "id": "toronto-maple-leafs",
+          "name": "Toronto Maple Leafs",
+          "shortName": "TOR",
+          "logo": "https://media.api-sports.io/hockey/teams/689.png",
+          "score": 3,
+          "winner": false
+        }
+      ],
+      "stages": null,
+      "meta": {
+        "overtime": "OT"
+      }
+    },
+    {
+      "id": "hockey:nhl:2026-07-19:dallas-stars-boston-bruins",
+      "sport": "hockey",
+      "competition": {
+        "id": "nhl",
+        "name": "NHL",
+        "country": "US",
+        "logo": "https://media.api-sports.io/hockey/leagues/57.png"
+      },
+      "startsAt": "2026-07-19T00:00:00Z",
+      "status": "finished",
+      "venue": null,
+      "participants": [
+        {
+          "id": "dallas-stars",
+          "name": "Dallas Stars",
+          "shortName": "DAL",
+          "logo": "https://media.api-sports.io/hockey/teams/683.png",
+          "score": 2,
+          "winner": false
+        },
+        {
+          "id": "boston-bruins",
+          "name": "Boston Bruins",
+          "shortName": "BOS",
+          "logo": "https://media.api-sports.io/hockey/teams/678.png",
+          "score": 3,
+          "winner": true
+        }
+      ],
+      "stages": null,
+      "meta": {
+        "overtime": "SO"
+      }
+    }
+  ]
+}

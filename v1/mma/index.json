@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "sport": "mma",
+  "generatedAt": "2026-07-18T12:00:00Z",
+  "files": [
+    {
+      "path": "mma/calendar/2026-07.json",
+      "kind": "calendar",
+      "hash": "cd81e731933405ee",
+      "updatedAt": "2026-07-18T12:00:00Z"
+    },
+    {
+      "path": "mma/results/2026-07-18.json",
+      "kind": "results",
+      "hash": "cd81e731933405ee",
+      "updatedAt": "2026-07-18T12:00:00Z"
+    }
+  ]
+}

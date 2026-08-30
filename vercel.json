@@ -1,0 +1,68 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "headers": [
+    {
+      "source": "/v1/index.json",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, s-maxage=120, must-revalidate"
+        }
+      ]
+    },
+    {
+      "source": "/v1/config.json",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, s-maxage=120, must-revalidate"
+        }
+      ]
+    },
+    {
+      "source": "/v1/:sport/index.json",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, s-maxage=120, must-revalidate"
+        }
+      ]
+    },
+    {
+      "source": "/v1/:sport/calendar/:file",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, s-maxage=86400, stale-while-revalidate=3600"
+        }
+      ]
+    },
+    {
+      "source": "/v1/:sport/results/:file",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, s-maxage=300, stale-while-revalidate=60"
+        }
+      ]
+    },
+    {
+      "source": "/v1/gaming/:period/:file",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, s-maxage=300, stale-while-revalidate=60"
+        }
+      ]
+    },
+    {
+      "source": "/v1/:sport/news.json",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, s-maxage=21600, stale-while-revalidate=3600"
+        }
+      ]
+    }
+  ]
+}

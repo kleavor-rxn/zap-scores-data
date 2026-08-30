@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "sport": "hockey",
+  "generatedAt": "2026-07-18T12:00:00Z",
+  "files": [
+    {
+      "path": "hockey/calendar/2026-07.json",
+      "kind": "calendar",
+      "hash": "9a0cf20729b5418d",
+      "updatedAt": "2026-07-18T12:00:00Z"
+    },
+    {
+      "path": "hockey/calendar/2026-09.json",
+      "kind": "calendar",
+      "hash": "5bea9f6774e9b988",
+      "updatedAt": "2026-07-18T12:00:00Z"
+    },
+    {
+      "path": "hockey/results/2026-07-18.json",
+      "kind": "results",
+      "hash": "9a0cf20729b5418d",
+      "updatedAt": "2026-07-18T12:00:00Z"
+    }
+  ]
+}

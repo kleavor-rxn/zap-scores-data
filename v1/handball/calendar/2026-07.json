@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "sport": "handball",
+  "scope": "2026-07",
+  "generatedAt": "2026-07-18T12:00:00Z",
+  "events": [
+    {
+      "id": "handball:starligue:2026-07-18:paris-saint-germain-handball-montpellier-handball",
+      "sport": "handball",
+      "competition": {
+        "id": "starligue",
+        "name": "Liqui Moly Starligue",
+        "country": "FR",
+        "logo": null
+      },
+      "startsAt": "2026-07-18T19:00:00Z",
+      "status": "finished",
+      "venue": null,
+      "participants": [
+        {
+          "id": "paris-saint-germain-handball",
+          "name": "Paris Saint-Germain Handball",
+          "shortName": "PSG",
+          "logo": null,
+          "score": 31,
+          "winner": true
+        },
+        {
+          "id": "montpellier-handball",
+          "name": "Montpellier Handball",
+          "shortName": "MHA",
+          "logo": null,
+          "score": 28,
+          "winner": false
+        }
+      ],
+      "stages": null,
+      "meta": {}
+    }
+  ]
+}

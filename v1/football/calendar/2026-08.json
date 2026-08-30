@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "sport": "football",
+  "scope": "2026-08",
+  "generatedAt": "2026-07-18T12:00:00Z",
+  "events": [
+    {
+      "id": "football:ligue-1:2026-08-16:paris-saint-germain-marseille",
+      "sport": "football",
+      "competition": {
+        "id": "ligue-1",
+        "name": "Ligue 1",
+        "country": "FR",
+        "logo": "https://media.api-sports.io/football/leagues/61.png"
+      },
+      "startsAt": "2026-08-16T19:00:00Z",
+      "status": "scheduled",
+      "venue": {
+        "name": "Parc des Princes",
+        "city": "Paris"
+      },
+      "participants": [
+        {
+          "id": "paris-saint-germain",
+          "name": "Paris Saint Germain",
+          "shortName": "PSG",
+          "logo": "https://media.api-sports.io/football/teams/85.png",
+          "score": null,
+          "winner": null
+        },
+        {
+          "id": "marseille",
+          "name": "Marseille",
+          "shortName": "MAR",
+          "logo": "https://media.api-sports.io/football/teams/81.png",
+          "score": null,
+          "winner": null
+        }
+      ],
+      "stages": null,
+      "meta": {}
+    },
+    {
+      "id": "football:ligue-1:2026-08-23:lyon-monaco",
+      "sport": "football",
+      "competition": {
+        "id": "ligue-1",
+        "name": "Ligue 1",
+        "country": "FR",
+        "logo": "https://media.api-sports.io/football/leagues/61.png"
+      },
+      "startsAt": "2026-08-23T15:05:00Z",
+      "status": "scheduled",
+      "venue": {
+        "name": "Groupama Stadium",
+        "city": "Lyon"
+      },
+      "participants": [
+        {
+          "id": "lyon",
+          "name": "Lyon",
+          "shortName": "LYO",
+          "logo": "https://media.api-sports.io/football/teams/80.png",
+          "score": null,
+          "winner": null
+        },
+        {
+          "id": "monaco",
+          "name": "Monaco",
+          "shortName": "MON",
+          "logo": "https://media.api-sports.io/football/teams/91.png",
+          "score": null,
+          "winner": null
+        }
+      ],
+      "stages": null,
+      "meta": {}
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "sport": "afl",
+  "scope": "2026-07-18",
+  "generatedAt": "2026-07-18T12:00:00Z",
+  "events": [
+    {
+      "id": "afl:afl:2026-07-18:collingwood-magpies-carlton-blues",
+      "sport": "afl",
+      "competition": {
+        "id": "afl",
+        "name": "AFL",
+        "country": "AU",
+        "logo": null
+      },
+      "startsAt": "2026-07-18T09:20:00Z",
+      "status": "finished",
+      "venue": null,
+      "participants": [
+        {
+          "id": "collingwood-magpies",
+          "name": "Collingwood Magpies",
+          "shortName": "CMA",
+          "logo": null,
+          "score": 92,
+          "winner": true
+        },
+        {
+          "id": "carlton-blues",
+          "name": "Carlton Blues",
+          "shortName": "CBL",
+          "logo": null,
+          "score": 78,
+          "winner": false
+        }
+      ],
+      "stages": null,
+      "meta": {}
+    }
+  ]
+}

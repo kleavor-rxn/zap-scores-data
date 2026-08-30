@@ -1,0 +1,116 @@
+{
+  "schemaVersion": 1,
+  "sport": "tennis",
+  "scope": "2026-07",
+  "generatedAt": "2026-07-18T12:00:00Z",
+  "events": [
+    {
+      "id": "tennis:atp:2026-07-18:novak-djokovic-carlos-alcaraz",
+      "sport": "tennis",
+      "competition": {
+        "id": "atp",
+        "name": "ATP",
+        "country": "WORLD",
+        "logo": null
+      },
+      "startsAt": "2026-07-18T13:00:00Z",
+      "status": "finished",
+      "venue": null,
+      "participants": [
+        {
+          "id": "novak-djokovic",
+          "name": "Novak Djokovic",
+          "shortName": "NDJ",
+          "logo": null,
+          "score": 1,
+          "winner": false
+        },
+        {
+          "id": "carlos-alcaraz",
+          "name": "Carlos Alcaraz",
+          "shortName": "CAL",
+          "logo": null,
+          "score": 3,
+          "winner": true
+        }
+      ],
+      "stages": null,
+      "meta": {
+        "tournament": "ATP Masters Toronto",
+        "round": "Semi-final"
+      }
+    },
+    {
+      "id": "tennis:wta:2026-07-18:iga-swiatek-aryna-sabalenka",
+      "sport": "tennis",
+      "competition": {
+        "id": "wta",
+        "name": "WTA",
+        "country": "WORLD",
+        "logo": null
+      },
+      "startsAt": "2026-07-18T17:30:00Z",
+      "status": "live",
+      "venue": null,
+      "participants": [
+        {
+          "id": "iga-swiatek",
+          "name": "Iga Swiatek",
+          "shortName": "ISW",
+          "logo": null,
+          "score": 0,
+          "winner": null
+        },
+        {
+          "id": "aryna-sabalenka",
+          "name": "Aryna Sabalenka",
+          "shortName": "ASA",
+          "logo": null,
+          "score": 1,
+          "winner": null
+        }
+      ],
+      "stages": null,
+      "meta": {
+        "tournament": "WTA Montreal",
+        "round": "Semi-final"
+      }
+    },
+    {
+      "id": "tennis:atp:2026-07-20:jannik-sinner-felix-auger-aliassime",
+      "sport": "tennis",
+      "competition": {
+        "id": "atp",
+        "name": "ATP",
+        "country": "WORLD",
+        "logo": null
+      },
+      "startsAt": "2026-07-20T19:00:00Z",
+      "status": "scheduled",
+      "venue": null,
+      "participants": [
+        {
+          "id": "jannik-sinner",
+          "name": "Jannik Sinner",
+          "shortName": "JSI",
+          "logo": null,
+          "score": null,
+          "winner": null
+        },
+        {
+          "id": "felix-auger-aliassime",
+          "name": "Felix Auger-Aliassime",
+          "shortName": "FAA",
+          "logo": null,
+          "score": null,
+          "winner": null
+        }
+      ],
+      "stages": null,
+      "meta": {
+        "tournament": "ATP Masters Toronto",
+        "round": "Final"
+      }
+    }
+  ]
+}

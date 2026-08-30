@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "sport": "rugby",
+  "scope": "2026-07-18",
+  "generatedAt": "2026-07-18T12:00:00Z",
+  "events": [
+    {
+      "id": "rugby:six-nations:2026-07-18:france-angleterre",
+      "sport": "rugby",
+      "competition": {
+        "id": "six-nations",
+        "name": "Tournoi des Six Nations",
+        "country": "EU",
+        "logo": null
+      },
+      "startsAt": "2026-07-18T15:00:00Z",
+      "status": "finished",
+      "venue": null,
+      "participants": [
+        {
+          "id": "france",
+          "name": "France",
+          "shortName": "FRA",
+          "logo": null,
+          "score": 20,
+          "winner": null
+        },
+        {
+          "id": "angleterre",
+          "name": "Angleterre",
+          "shortName": "ANG",
+          "logo": null,
+          "score": 20,
+          "winner": null
+        }
+      ],
+      "stages": null,
+      "meta": {}
+    },
+    {
+      "id": "rugby:top-14:2026-07-18:stade-toulousain-union-bordeaux-begles",
+      "sport": "rugby",
+      "competition": {
+        "id": "top-14",
+        "name": "Top 14",
+        "country": "FR",
+        "logo": null
+      },
+      "startsAt": "2026-07-18T19:05:00Z",
+      "status": "finished",
+      "venue": null,
+      "participants": [
+        {
+          "id": "stade-toulousain",
+          "name": "Stade Toulousain",
+          "shortName": "STO",
+          "logo": null,
+          "score": 28,
+          "winner": true
+        },
+        {
+          "id": "union-bordeaux-begles",
+          "name": "Union Bordeaux Begles",
+          "shortName": "UBB",
+          "logo": null,
+          "score": 19,
+          "winner": false
+        }
+      ],
+      "stages": null,
+      "meta": {}
+    }
+  ]
+}

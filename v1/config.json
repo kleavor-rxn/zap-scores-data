@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-07-18T12:00:00Z",
+  "minAppVersion": "1.0.0",
+  "activeKeyId": "k1",
+  "features": {
+    "predictions": false,
+    "news": true
+  }
+}

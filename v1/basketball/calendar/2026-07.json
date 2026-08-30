@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "sport": "basketball",
+  "scope": "2026-07",
+  "generatedAt": "2026-07-18T12:00:00Z",
+  "events": [
+    {
+      "id": "basketball:nba:2026-07-18:boston-celtics-denver-nuggets",
+      "sport": "basketball",
+      "competition": {
+        "id": "nba",
+        "name": "NBA",
+        "country": "US",
+        "logo": "https://media.api-sports.io/basketball/leagues/12.png"
+      },
+      "startsAt": "2026-07-18T23:30:00Z",
+      "status": "finished",
+      "venue": null,
+      "participants": [
+        {
+          "id": "boston-celtics",
+          "name": "Boston Celtics",
+          "shortName": "BOS",
+          "logo": "https://media.api-sports.io/basketball/teams/133.png",
+          "score": 118,
+          "winner": true
+        },
+        {
+          "id": "denver-nuggets",
+          "name": "Denver Nuggets",
+          "shortName": "DEN",
+          "logo": "https://media.api-sports.io/basketball/teams/134.png",
+          "score": 112,
+          "winner": false
+        }
+      ],
+      "stages": null,
+      "meta": {
+        "overtime": true
+      }
+    },
+    {
+      "id": "basketball:nba:2026-07-19:los-angeles-lakers-golden-state-warriors",
+      "sport": "basketball",
+      "competition": {
+        "id": "nba",
+        "name": "NBA",
+        "country": "US",
+        "logo": "https://media.api-sports.io/basketball/leagues/12.png"
+      },
+      "startsAt": "2026-07-19T02:00:00Z",
+      "status": "live",
+      "venue": null,
+      "participants": [
+        {
+          "id": "los-angeles-lakers",
+          "name": "Los Angeles Lakers",
+          "shortName": "LAL",
+          "logo": "https://media.api-sports.io/basketball/teams/145.png",
+          "score": 70,
+          "winner": null
+        },
+        {
+          "id": "golden-state-warriors",
+          "name": "Golden State Warriors",
+          "shortName": "GSW",
+          "logo": "https://media.api-sports.io/basketball/teams/144.png",
+          "score": 70,
+          "winner": null
+        }
+      ],
+      "stages": null,
+      "meta": {}
+    }
+  ]
+}

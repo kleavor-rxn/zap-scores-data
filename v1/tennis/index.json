@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "sport": "tennis",
+  "generatedAt": "2026-07-18T12:00:00Z",
+  "files": [
+    {
+      "path": "tennis/calendar/2026-07.json",
+      "kind": "calendar",
+      "hash": "c6a8065aaf4c5d9f",
+      "updatedAt": "2026-07-18T12:00:00Z"
+    },
+    {
+      "path": "tennis/results/2026-07-18.json",
+      "kind": "results",
+      "hash": "01fd841115f0b2df",
+      "updatedAt": "2026-07-18T12:00:00Z"
+    }
+  ]
+}

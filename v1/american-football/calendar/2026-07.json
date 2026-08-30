@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "sport": "american-football",
+  "scope": "2026-07",
+  "generatedAt": "2026-07-18T12:00:00Z",
+  "events": [
+    {
+      "id": "american-football:nfl:2026-07-18:kansas-city-chiefs-buffalo-bills",
+      "sport": "american-football",
+      "competition": {
+        "id": "nfl",
+        "name": "NFL",
+        "country": "US",
+        "logo": null
+      },
+      "startsAt": "2026-07-18T20:00:00Z",
+      "status": "finished",
+      "venue": null,
+      "participants": [
+        {
+          "id": "kansas-city-chiefs",
+          "name": "Kansas City Chiefs",
+          "shortName": "KCC",
+          "logo": null,
+          "score": 27,
+          "winner": true
+        },
+        {
+          "id": "buffalo-bills",
+          "name": "Buffalo Bills",
+          "shortName": "BBI",
+          "logo": null,
+          "score": 24,
+          "winner": false
+        }
+      ],
+      "stages": null,
+      "meta": {
+        "overtime": "OT"
+      }
+    }
+  ]
+}

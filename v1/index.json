@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-07-18T12:00:00Z",
+  "sports": {
+    "football": {
+      "indexPath": "football/index.json",
+      "hash": "348fde6cee6fd92a",
+      "updatedAt": "2026-07-18T12:00:00Z"
+    },
+    "f1": {
+      "indexPath": "f1/index.json",
+      "hash": "b08ae0093e99836c",
+      "updatedAt": "2026-07-18T12:00:00Z"
+    },
+    "hockey": {
+      "indexPath": "hockey/index.json",
+      "hash": "5d0278fc3b3d8d44",
+      "updatedAt": "2026-07-18T12:00:00Z"
+    },
+    "basketball": {
+      "indexPath": "basketball/index.json",
+      "hash": "e97f46d7b98fc4c8",
+      "updatedAt": "2026-07-18T12:00:00Z"
+    },
+    "baseball": {
+      "indexPath": "baseball/index.json",
+      "hash": "92188d349bf3c405",
+      "updatedAt": "2026-07-18T12:00:00Z"
+    },
+    "american-football": {
+      "indexPath": "american-football/index.json",
+      "hash": "6f987cf240ea7aed",
+      "updatedAt": "2026-07-18T12:00:00Z"
+    },
+    "rugby": {
+      "indexPath": "rugby/index.json",
+      "hash": "a5b83070ebc80d79",
+      "updatedAt": "2026-07-18T12:00:00Z"
+    },
+    "volleyball": {
+      "indexPath": "volleyball/index.json",
+      "hash": "e6ee1016f7a81bce",
+      "updatedAt": "2026-07-18T12:00:00Z"
+    },
+    "handball": {
+      "indexPath": "handball/index.json",
+      "hash": "14260be4e8f99ac6",
+      "updatedAt": "2026-07-18T12:00:00Z"
+    },
+    "afl": {
+      "indexPath": "afl/index.json",
+      "hash": "67264c84aa286d88",
+      "updatedAt": "2026-07-18T12:00:00Z"
+    },
+    "mma": {
+      "indexPath": "mma/index.json",
+      "hash": "506ca21a73b71458",
+      "updatedAt": "2026-07-18T12:00:00Z"
+    },
+    "tennis": {
+      "indexPath": "tennis/index.json",
+      "hash": "048f54912a3d2981",
+      "updatedAt": "2026-07-18T12:00:00Z"
+    }
+  }
+}

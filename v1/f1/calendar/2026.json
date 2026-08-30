@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 1,
+  "sport": "f1",
+  "scope": "2026",
+  "generatedAt": "2026-07-18T12:00:00Z",
+  "events": [
+    {
+      "id": "f1:f1:2026-05-24:monaco-grand-prix",
+      "sport": "f1",
+      "competition": {
+        "id": "f1",
+        "name": "Formule 1",
+        "country": "WORLD",
+        "logo": null
+      },
+      "startsAt": "2026-05-24T13:00:00Z",
+      "status": "finished",
+      "venue": {
+        "name": "Circuit de Monaco",
+        "city": "Monte-Carlo"
+      },
+      "participants": [],
+      "stages": [
+        {
+          "id": "fp1",
+          "name": "Essais libres 1",
+          "startsAt": "2026-05-22T11:30:00Z",
+          "status": "finished",
+          "result": null
+        },
+        {
+          "id": "fp2",
+          "name": "Essais libres 2",
+          "startsAt": "2026-05-22T15:00:00Z",
+          "status": "finished",
+          "result": null
+        },
+        {
+          "id": "fp3",
+          "name": "Essais libres 3",
+          "startsAt": "2026-05-23T10:30:00Z",
+          "status": "finished",
+          "result": null
+        },
+        {
+          "id": "q",
+          "name": "Qualifications",
+          "startsAt": "2026-05-23T14:00:00Z",
+          "status": "finished",
+          "result": null
+        },
+        {
+          "id": "race",
+          "name": "Course",
+          "startsAt": "2026-05-24T13:00:00Z",
+          "status": "finished",
+          "result": null
+        }
+      ],
+      "meta": {
+        "gpName": "Monaco Grand Prix",
+        "circuit": "Circuit de Monaco",
+        "country": "Monaco"
+      }
+    },
+    {
+      "id": "f1:f1:2026-08-30:belgian-grand-prix",
+      "sport": "f1",
+      "competition": {
+        "id": "f1",
+        "name": "Formule 1",
+        "country": "WORLD",
+        "logo": null
+      },
+      "startsAt": "2026-08-30T13:00:00Z",
+      "status": "scheduled",
+      "venue": {
+        "name": "Circuit de Spa-Francorchamps",
+        "city": "Spa"
+      },
+      "participants": [],
+      "stages": [
+        {
+          "id": "fp1",
+          "name": "Essais libres 1",
+          "startsAt": "2026-08-28T10:30:00Z",
+          "status": "scheduled",
+          "result": null
+        },
+        {
+          "id": "fp2",
+          "name": "Essais libres 2",
+          "startsAt": "2026-08-28T14:00:00Z",
+          "status": "scheduled",
+          "result": null
+        },
+        {
+          "id": "fp3",
+          "name": "Essais libres 3",
+          "startsAt": "2026-08-29T09:30:00Z",
+          "status": "scheduled",
+          "result": null
+        },
+        {
+          "id": "q",
+          "name": "Qualifications",
+          "startsAt": "2026-08-29T13:00:00Z",
+          "status": "scheduled",
+          "result": null
+        },
+        {
+          "id": "race",
+          "name": "Course",
+          "startsAt": "2026-08-30T13:00:00Z",
+          "status": "scheduled",
+          "result": null
+        }
+      ],
+      "meta": {
+        "gpName": "Belgian Grand Prix",
+        "circuit": "Circuit de Spa-Francorchamps",
+        "country": "Belgium"
+      }
+    }
+  ]
+}

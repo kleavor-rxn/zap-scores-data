@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "sport": "football",
+  "generatedAt": "2026-07-18T12:00:00Z",
+  "files": [
+    {
+      "path": "football/calendar/2026-07.json",
+      "kind": "calendar",
+      "hash": "5f1f8c01fb311a64",
+      "updatedAt": "2026-07-18T12:00:00Z"
+    },
+    {
+      "path": "football/calendar/2026-08.json",
+      "kind": "calendar",
+      "hash": "72ea59b1f2a728e4",
+      "updatedAt": "2026-07-18T12:00:00Z"
+    },
+    {
+      "path": "football/results/2026-07-18.json",
+      "kind": "results",
+      "hash": "5f1f8c01fb311a64",
+      "updatedAt": "2026-07-18T12:00:00Z"
+    }
+  ]
+}

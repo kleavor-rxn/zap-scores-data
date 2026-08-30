@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "sport": "basketball",
+  "scope": "2026-09",
+  "generatedAt": "2026-07-18T12:00:00Z",
+  "events": [
+    {
+      "id": "basketball:nba:2026-09-30:boston-celtics-denver-nuggets",
+      "sport": "basketball",
+      "competition": {
+        "id": "nba",
+        "name": "NBA",
+        "country": "US",
+        "logo": "https://media.api-sports.io/basketball/leagues/12.png"
+      },
+      "startsAt": "2026-09-30T23:30:00Z",
+      "status": "scheduled",
+      "venue": null,
+      "participants": [
+        {
+          "id": "boston-celtics",
+          "name": "Boston Celtics",
+          "shortName": "BOS",
+          "logo": "https://media.api-sports.io/basketball/teams/133.png",
+          "score": null,
+          "winner": null
+        },
+        {
+          "id": "denver-nuggets",
+          "name": "Denver Nuggets",
+          "shortName": "DEN",
+          "logo": "https://media.api-sports.io/basketball/teams/134.png",
+          "score": null,
+          "winner": null
+        }
+      ],
+      "stages": null,
+      "meta": {}
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "sport": "baseball",
+  "scope": "2026-07",
+  "generatedAt": "2026-07-18T12:00:00Z",
+  "events": [
+    {
+      "id": "baseball:mlb:2026-07-18:new-york-yankees-boston-red-sox",
+      "sport": "baseball",
+      "competition": {
+        "id": "mlb",
+        "name": "MLB",
+        "country": "US",
+        "logo": null
+      },
+      "startsAt": "2026-07-18T23:10:00Z",
+      "status": "finished",
+      "venue": null,
+      "participants": [
+        {
+          "id": "new-york-yankees",
+          "name": "New York Yankees",
+          "shortName": "NYY",
+          "logo": null,
+          "score": 5,
+          "winner": true
+        },
+        {
+          "id": "boston-red-sox",
+          "name": "Boston Red Sox",
+          "shortName": "BRS",
+          "logo": null,
+          "score": 3,
+          "winner": false
+        }
+      ],
+      "stages": null,
+      "meta": {}
+    },
+    {
+      "id": "baseball:mlb:2026-07-19:los-angeles-dodgers-san-diego-padres",
+      "sport": "baseball",
+      "competition": {
+        "id": "mlb",
+        "name": "MLB",
+        "country": "US",
+        "logo": null
+      },
+      "startsAt": "2026-07-19T01:40:00Z",
+      "status": "scheduled",
+      "venue": null,
+      "participants": [
+        {
+          "id": "los-angeles-dodgers",
+          "name": "Los Angeles Dodgers",
+          "shortName": "LAD",
+          "logo": null,
+          "score": null,
+          "winner": null
+        },
+        {
+          "id": "san-diego-padres",
+          "name": "San Diego Padres",
+          "shortName": "SDP",
+          "logo": null,
+          "score": null,
+          "winner": null
+        }
+      ],
+      "stages": null,
+      "meta": {}
+    }
+  ]
+}

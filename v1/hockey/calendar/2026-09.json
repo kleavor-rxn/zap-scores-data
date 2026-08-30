@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "sport": "hockey",
+  "scope": "2026-09",
+  "generatedAt": "2026-07-18T12:00:00Z",
+  "events": [
+    {
+      "id": "hockey:nhl:2026-09-28:montreal-canadiens-toronto-maple-leafs",
+      "sport": "hockey",
+      "competition": {
+        "id": "nhl",
+        "name": "NHL",
+        "country": "US",
+        "logo": "https://media.api-sports.io/hockey/leagues/57.png"
+      },
+      "startsAt": "2026-09-28T23:00:00Z",
+      "status": "scheduled",
+      "venue": null,
+      "participants": [
+        {
+          "id": "montreal-canadiens",
+          "name": "Montreal Canadiens",
+          "shortName": "MTL",
+          "logo": "https://media.api-sports.io/hockey/teams/672.png",
+          "score": null,
+          "winner": null
+        },
+        {
+          "id": "toronto-maple-leafs",
+          "name": "Toronto Maple Leafs",
+          "shortName": "TOR",
+          "logo": "https://media.api-sports.io/hockey/teams/689.png",
+          "score": null,
+          "winner": null
+        }
+      ],
+      "stages": null,
+      "meta": {}
+    }
+  ]
+}

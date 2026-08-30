@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "sport": "volleyball",
+  "scope": "2026-07",
+  "generatedAt": "2026-07-18T12:00:00Z",
+  "events": [
+    {
+      "id": "volleyball:superlega:2026-07-18:sir-safety-perugia-itas-trentino",
+      "sport": "volleyball",
+      "competition": {
+        "id": "superlega",
+        "name": "SuperLega",
+        "country": "IT",
+        "logo": null
+      },
+      "startsAt": "2026-07-18T18:00:00Z",
+      "status": "finished",
+      "venue": null,
+      "participants": [
+        {
+          "id": "sir-safety-perugia",
+          "name": "Sir Safety Perugia",
+          "shortName": "SSP",
+          "logo": null,
+          "score": 3,
+          "winner": true
+        },
+        {
+          "id": "itas-trentino",
+          "name": "Itas Trentino",
+          "shortName": "ITR",
+          "logo": null,
+          "score": 1,
+          "winner": false
+        }
+      ],
+      "stages": null,
+      "meta": {}
+    }
+  ]
+}

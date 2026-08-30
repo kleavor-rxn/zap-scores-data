@@ -1,0 +1,116 @@
+{
+  "schemaVersion": 1,
+  "sport": "football",
+  "scope": "2026-07-18",
+  "generatedAt": "2026-07-18T12:00:00Z",
+  "events": [
+    {
+      "id": "football:mls:2026-07-18:inter-miami-la-galaxy",
+      "sport": "football",
+      "competition": {
+        "id": "mls",
+        "name": "MLS",
+        "country": "US",
+        "logo": "https://media.api-sports.io/football/leagues/253.png"
+      },
+      "startsAt": "2026-07-18T01:30:00Z",
+      "status": "finished",
+      "venue": {
+        "name": "Chase Stadium",
+        "city": "Fort Lauderdale"
+      },
+      "participants": [
+        {
+          "id": "inter-miami",
+          "name": "Inter Miami",
+          "shortName": "MIA",
+          "logo": "https://media.api-sports.io/football/teams/9568.png",
+          "score": 3,
+          "winner": true
+        },
+        {
+          "id": "la-galaxy",
+          "name": "LA Galaxy",
+          "shortName": "LAG",
+          "logo": "https://media.api-sports.io/football/teams/1605.png",
+          "score": 2,
+          "winner": false
+        }
+      ],
+      "stages": null,
+      "meta": {}
+    },
+    {
+      "id": "football:mls:2026-07-18:los-angeles-fc-seattle-sounders",
+      "sport": "football",
+      "competition": {
+        "id": "mls",
+        "name": "MLS",
+        "country": "US",
+        "logo": "https://media.api-sports.io/football/leagues/253.png"
+      },
+      "startsAt": "2026-07-18T23:00:00Z",
+      "status": "live",
+      "venue": {
+        "name": "BMO Stadium",
+        "city": "Los Angeles"
+      },
+      "participants": [
+        {
+          "id": "los-angeles-fc",
+          "name": "Los Angeles FC",
+          "shortName": "LAFC",
+          "logo": "https://media.api-sports.io/football/teams/1616.png",
+          "score": 1,
+          "winner": null
+        },
+        {
+          "id": "seattle-sounders",
+          "name": "Seattle Sounders",
+          "shortName": "SSO",
+          "logo": "https://media.api-sports.io/football/teams/1595.png",
+          "score": 1,
+          "winner": null
+        }
+      ],
+      "stages": null,
+      "meta": {}
+    },
+    {
+      "id": "football:mls:2026-07-18:austin-fc-fc-dallas",
+      "sport": "football",
+      "competition": {
+        "id": "mls",
+        "name": "MLS",
+        "country": "US",
+        "logo": "https://media.api-sports.io/football/leagues/253.png"
+      },
+      "startsAt": "2026-07-18T23:30:00Z",
+      "status": "postponed",
+      "venue": {
+        "name": "Q2 Stadium",
+        "city": "Austin"
+      },
+      "participants": [
+        {
+          "id": "austin-fc",
+          "name": "Austin FC",
+          "shortName": "AUS",
+          "logo": "https://media.api-sports.io/football/teams/16489.png",
+          "score": null,
+          "winner": null
+        },
+        {
+          "id": "fc-dallas",
+          "name": "FC Dallas",
+          "shortName": "DAL",
+          "logo": "https://media.api-sports.io/football/teams/1597.png",
+          "score": null,
+          "winner": null
+        }
+      ],
+      "stages": null,
+      "meta": {}
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "sport": "mma",
+  "scope": "2026-07-18",
+  "generatedAt": "2026-07-18T12:00:00Z",
+  "events": [
+    {
+      "id": "mma:ufc:2026-07-19:islam-makhachev-charles-oliveira",
+      "sport": "mma",
+      "competition": {
+        "id": "ufc",
+        "name": "UFC",
+        "country": "WORLD",
+        "logo": null
+      },
+      "startsAt": "2026-07-19T02:00:00Z",
+      "status": "finished",
+      "venue": null,
+      "participants": [
+        {
+          "id": "islam-makhachev",
+          "name": "Islam Makhachev",
+          "shortName": "IMA",
+          "logo": null,
+          "score": null,
+          "winner": true
+        },
+        {
+          "id": "charles-oliveira",
+          "name": "Charles Oliveira",
+          "shortName": "COL",
+          "logo": null,
+          "score": null,
+          "winner": false
+        }
+      ],
+      "stages": null,
+      "meta": {
+        "category": "Lightweight"
+      }
+    },
+    {
+      "id": "mma:ufc:2026-07-19:tom-aspinall-ciryl-gane",
+      "sport": "mma",
+      "competition": {
+        "id": "ufc",
+        "name": "UFC",
+        "country": "WORLD",
+        "logo": null
+      },
+      "startsAt": "2026-07-19T03:00:00Z",
+      "status": "scheduled",
+      "venue": null,
+      "participants": [
+        {
+          "id": "tom-aspinall",
+          "name": "Tom Aspinall",
+          "shortName": "TAS",
+          "logo": null,
+          "score": null,
+          "winner": null
+        },
+        {
+          "id": "ciryl-gane",
+          "name": "Ciryl Gane",
+          "shortName": "CGA",
+          "logo": null,
+          "score": null,
+          "winner": null
+        }
+      ],
+      "stages": null,
+      "meta": {
+        "category": "Heavyweight"
+      }
+    }
+  ]
+}

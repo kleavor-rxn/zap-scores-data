@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "sport": "american-football",
+  "generatedAt": "2026-07-18T12:00:00Z",
+  "files": [
+    {
+      "path": "american-football/calendar/2026-07.json",
+      "kind": "calendar",
+      "hash": "1667afc769cc7c62",
+      "updatedAt": "2026-07-18T12:00:00Z"
+    },
+    {
+      "path": "american-football/results/2026-07-18.json",
+      "kind": "results",
+      "hash": "1667afc769cc7c62",
+      "updatedAt": "2026-07-18T12:00:00Z"
+    }
+  ]
+}

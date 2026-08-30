@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "sport": "volleyball",
+  "generatedAt": "2026-07-18T12:00:00Z",
+  "files": [
+    {
+      "path": "volleyball/calendar/2026-07.json",
+      "kind": "calendar",
+      "hash": "f6ae17ece64ec452",
+      "updatedAt": "2026-07-18T12:00:00Z"
+    },
+    {
+      "path": "volleyball/results/2026-07-18.json",
+      "kind": "results",
+      "hash": "f6ae17ece64ec452",
+      "updatedAt": "2026-07-18T12:00:00Z"
+    }
+  ]
+}
