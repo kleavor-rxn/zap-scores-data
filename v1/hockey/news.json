@@ -1,15 +1,39 @@
 {
   "schemaVersion": 1,
   "sport": "hockey",
-  "generatedAt": "2026-08-30T23:30:02Z",
+  "generatedAt": "2026-08-31T12:51:55Z",
   "items": [
     {
+      "id": "b88f311da84cbf4d",
+      "title": "Un espoir du Canadien prolonge de trois ans en KHL",
+      "summary": "Le gardien Yevgeni Volokhin, repeche par Montreal en 2023, restera au Spartak jusqu'en 2028-2029 : faute d'entente de transfert entre la KHL et la LNH, son arrivee en Amerique du Nord s'eloigne.",
+      "source": "Pro Hockey Rumors",
+      "url": "https://www.prohockeyrumors.com/2026/08/atlantic-notes-batherson-volokhin-steen.html",
+      "publishedAt": "2026-08-30T22:59:00Z"
+    },
+    {
       "id": "81ed5bead97a169b",
-      "title": "Columbus veut regler le dossier Adam Fantilli avant le camp",
-      "summary": "Le directeur general Don Waddell se dit confiant de s'entendre avec son attaquant avant l'ouverture du camp d'entrainement, le 16 septembre, malgre un ecart persistant sur la valeur du contrat.",
+      "title": "Columbus veut regler le dossier Fantilli avant le camp",
+      "summary": "Le centre est toujours sans contrat pour la saison a venir alors que le camp d'entrainement des Blue Jackets s'ouvre le 16 septembre ; la direction se dit confiante malgre un ecart d'evaluation.",
       "source": "Pro Hockey Rumors",
       "url": "https://www.prohockeyrumors.com/2026/08/blue-jackets-expect-to-sign-adam-fantilli-before-camp.html",
       "publishedAt": "2026-08-30T13:58:00Z"
+    },
+    {
+      "id": "8094aaef479b2d9a",
+      "title": "Chicago retient Korchinski pour deux saisons",
+      "summary": "Le defenseur de 22 ans, septieme choix au total en 2022, a accepte une entente de deux ans totalisant 2,65 millions de dollars, soit environ 1,325 million par annee.",
+      "source": "Pro Hockey Rumors",
+      "url": "https://www.prohockeyrumors.com/2026/08/blackhawks-sign-kevin-korchinski-to-two-year-deal.html",
+      "publishedAt": "2026-08-30T01:00:00Z"
+    },
+    {
+      "id": "edaf4698f856c990",
+      "title": "Hellebuyck ouvrirait la porte a de nombreuses destinations",
+      "summary": "Le gardien des Jets, qui a demande un echange, accepterait de rejoindre un large eventail d'equipes, mais Winnipeg n'a pas encore recu d'offre jugee satisfaisante.",
+      "source": "Pro Hockey Rumors",
+      "url": "https://www.prohockeyrumors.com/2026/08/connor-hellebuyck-would-approve-a-trade-to-multiple-teams.html",
+      "publishedAt": "2026-08-29T22:00:00Z"
     },
     {
       "id": "062ba0ea8d717f74",

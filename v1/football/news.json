@@ -1,8 +1,48 @@
 {
   "schemaVersion": 1,
   "sport": "football",
-  "generatedAt": "2026-08-30T23:30:02Z",
+  "generatedAt": "2026-08-31T12:51:55Z",
   "items": [
+    {
+      "id": "af9670f6d828ee37",
+      "title": "Daniel Munoz quitte Crystal Palace pour Nottingham Forest",
+      "summary": "Le lateral droit colombien de 30 ans rejoint Forest contre quelque 26 millions d'euros, avec un contrat de trois saisons assorti d'une annee en option.",
+      "source": "Foot Mercato",
+      "url": "https://www.footmercato.net/a753005128566773126-nottingham-forest-soffre-daniel-munoz-pour-26-meur",
+      "publishedAt": "2026-08-31T12:19:00Z"
+    },
+    {
+      "id": "180aec36216c7a3a",
+      "title": "Jonathan David proche d'un pret de la Juventus a l'Atletico",
+      "summary": "L'attaquant canadien, peu en reussite lors de sa premiere saison turinoise, a donne son feu vert a un pret assorti d'une option d'achat vers Madrid, dont le club prendrait en charge plus de la moitie du salaire.",
+      "source": "Foot Mercato",
+      "url": "https://www.footmercato.net/a6104101728822584243-latletico-de-madrid-a-boucle-larrivee-de-jonathan-david",
+      "publishedAt": "2026-08-31T12:12:00Z"
+    },
+    {
+      "id": "60720fee2eb063cb",
+      "title": "Manchester City officialise l'arrivee du Bresilien Allan Elias",
+      "summary": "Le club anglais a confirme la signature de l'ailier de 22 ans en provenance de Palmeiras, pour environ 40 millions d'euros et un bail de cinq ans.",
+      "source": "Foot Mercato",
+      "url": "https://www.footmercato.net/a2099217547581952966-manchester-city-annonce-larrivee-dallan-elias",
+      "publishedAt": "2026-08-31T12:06:00Z"
+    },
+    {
+      "id": "4f6ccee5583fb82d",
+      "title": "Monaco s'installe en tete de la Ligue 1 apres avoir battu l'OM",
+      "summary": "Un double de Paris Brunner, a la 13e puis a la 54e minute, a suffi aux Monegasques pour s'imposer 2-0 au Louis-II et prendre seuls la premiere place apres deux journees.",
+      "source": "Foot Mercato",
+      "url": "https://www.footmercato.net/a6347027780660221347-monaco-om-les-notes-du-match",
+      "publishedAt": "2026-08-30T21:00:00Z"
+    },
+    {
+      "id": "d159261554dd0901",
+      "title": "Barcola a Liverpool pour boucler son transfert depuis le PSG",
+      "summary": "L'ailier international francais s'est presente au centre d'entrainement des Reds dimanche pour sa visite medicale, sur la base d'un accord evalue autour de 145 millions d'euros avec Paris.",
+      "source": "Foot Mercato",
+      "url": "https://www.footmercato.net/a7330550373202251033-bradley-barcola-est-arrive-a-liverpool",
+      "publishedAt": "2026-08-30T11:35:00Z"
+    },
     {
       "id": "75ba843697f0f784",
       "title": "Newcastle fait plier Tottenham 2-0 a Londres",
@@ -18,14 +58,6 @@
       "source": "Foot Mercato",
       "url": "https://www.footmercato.net/a1501543622380143028-rennes-cest-boucle-pour-lilian-brassier-a-francfort",
       "publishedAt": "2026-08-29T16:30:00Z"
-    },
-    {
-      "id": "340ad0b3bf10ce6c",
-      "title": "Le mercato ferme mardi, et la France est la premiere servie",
-      "summary": "Allemagne, Angleterre, Espagne, France et Italie bouclent leur marche des transferts le mardi 1er septembre. Les clubs francais doivent conclure des 19h59, quelques heures avant leurs voisins europeens.",
-      "source": "Footeo",
-      "url": "https://news.footeo.com/2026/08/29/quand-ferme-le-mercato-en-france-et-en-europe-les-dates-de-cloture-pays-par-pays-10166",
-      "publishedAt": "2026-08-29T06:23:00Z"
     }
   ]
 }

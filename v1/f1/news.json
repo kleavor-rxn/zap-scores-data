@@ -1,8 +1,32 @@
 {
   "schemaVersion": 1,
   "sport": "f1",
-  "generatedAt": "2026-08-30T23:30:02Z",
+  "generatedAt": "2026-08-31T12:51:55Z",
   "items": [
+    {
+      "id": "df2fb2da462d951b",
+      "title": "Vol de cables sur le futur circuit madrilene de la F1",
+      "summary": "Environ 300 metres de cables electriques ont disparu aux abords du Madring et la police espagnole enquete ; les organisateurs maintiennent la tenue de l'epreuve prevue le 13 septembre.",
+      "source": "Nextgen-Auto",
+      "url": "https://motorsport.nextgen-auto.com/fr/formule-1/le-madring-victime-d-un-vol-de-cables-a-deux-semaines-des-debuts-de-la-f1,210977.html",
+      "publishedAt": "2026-08-31T10:52:00Z"
+    },
+    {
+      "id": "8c23412b16a6a001",
+      "title": "Antonelli s'elancera du fond de la grille a Monza",
+      "summary": "Mercedes a choisi d'installer une serie d'elements moteur neufs sur la voiture de son pilote, ce qui entraine une penalite : l'ecurie juge le trace italien, riche en zones de depassement, le moins couteux pour l'encaisser.",
+      "source": "Nextgen-Auto",
+      "url": "https://motorsport.nextgen-auto.com/fr/formule-1/antonelli-penalise-a-monza-le-pari-calcule-et-explique-par-mercedes-f1,210971.html",
+      "publishedAt": "2026-08-31T08:38:00Z"
+    },
+    {
+      "id": "0e21d0200663195e",
+      "title": "Grand Prix d'Italie : le programme du week-end de Monza",
+      "summary": "La F1 reprend du 4 au 6 septembre a Monza, avec les deux premieres seances libres vendredi, la troisieme puis les qualifications samedi, et le depart de la course dimanche a 15h.",
+      "source": "Nextgen-Auto",
+      "url": "https://motorsport.nextgen-auto.com/fr/formule-1/presentation-et-horaires-du-grand-prix-d-italie-2026-de-f1,210943.html",
+      "publishedAt": "2026-08-31T04:35:00Z"
+    },
     {
       "id": "c6d0559815606dd2",
       "title": "Monza : Antonelli relegue en fond de grille pour un moteur neuf",
@@ -26,6 +50,14 @@
       "source": "PlanetF1",
       "url": "https://www.planetf1.com/news/lando-norris-rival-interest-mclaren-contract",
       "publishedAt": "2026-08-30T12:31:00Z"
+    },
+    {
+      "id": "5c957dc1df8f4a9b",
+      "title": "Le depart du GP des Pays-Bas sera rediscute au briefing de Monza",
+      "summary": "Plusieurs pilotes ont conteste le choix d'un depart arrete apres un seul tour derriere la voiture de securite, sur une piste encore humide par endroits ; le sujet sera remis sur la table en Italie.",
+      "source": "Nextgen-Auto",
+      "url": "https://motorsport.nextgen-auto.com/fr/formule-1/la-procedure-du-depart-du-gp-des-pays-bas-va-etre-reexaminee,210951.html",
+      "publishedAt": "2026-08-30T06:17:00Z"
     }
   ]
 }
