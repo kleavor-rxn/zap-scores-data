@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "sport": "f1",
-  "generatedAt": "2026-08-31T12:51:55Z",
+  "generatedAt": "2026-08-31T15:28:43Z",
   "items": [
+    {
+      "id": "03a0d8a38511dcbb",
+      "title": "Ben Sulayem répond à Sainz père après sa candidature abandonnée",
+      "summary": "Le président de la FIA estime que l'ancien champion de rallye n'avait pas mesuré l'ampleur de la fonction, qui dépasse largement le sport automobile.",
+      "source": "Nextgen-Auto",
+      "url": "https://motorsport.nextgen-auto.com/fr/formule-1/ben-sulayem-tacle-sainz-sr-apres-sa-candidature-avortee-a-la-presidence-de-la,210978.html",
+      "publishedAt": "2026-08-31T12:36:00Z",
+      "keyPoints": [
+        "Il décrit un poste couvrant la mobilité et la gestion, avec 245 membres dans le monde.",
+        "La présidence s'exerce sans rémunération, selon ses propres termes.",
+        "Les règles de parrainage de l'élection avaient été critiquées comme quasi dissuasives."
+      ],
+      "topic": "FIA"
+    },
     {
       "id": "df2fb2da462d951b",
       "title": "Vol de cables sur le futur circuit madrilene de la F1",
@@ -18,6 +32,20 @@
       "source": "Nextgen-Auto",
       "url": "https://motorsport.nextgen-auto.com/fr/formule-1/antonelli-penalise-a-monza-le-pari-calcule-et-explique-par-mercedes-f1,210971.html",
       "publishedAt": "2026-08-31T08:38:00Z"
+    },
+    {
+      "id": "0ae8615a36838b5e",
+      "title": "Ferrari s'apprête à prolonger Hamilton, Bearman face à un choix",
+      "summary": "La Scuderia envisagerait d'étendre le contrat du Britannique jusqu'en 2028 ou 2029, ce qui refermerait durablement la porte à son jeune pilote sous contrat.",
+      "source": "Nextgen-Auto",
+      "url": "https://motorsport.nextgen-auto.com/fr/formule-1/ferrari-sur-le-point-de-prolonger-hamilton-pour-un-ou-deux-ans-bearman-a-un,210969.html",
+      "publishedAt": "2026-08-31T07:54:00Z",
+      "keyPoints": [
+        "Hamilton est aujourd'hui engagé jusqu'en 2027, avec une option à son avantage.",
+        "Leclerc étant lié jusqu'en 2030, un baquet Ferrari ne se libérerait pas avant plusieurs saisons.",
+        "Bearman, sous contrat jusqu'en 2027, a dit ne pas vouloir attendre indéfiniment une place."
+      ],
+      "topic": "Contrats"
     },
     {
       "id": "0e21d0200663195e",

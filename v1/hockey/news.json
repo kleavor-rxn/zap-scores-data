@@ -1,8 +1,36 @@
 {
   "schemaVersion": 1,
   "sport": "hockey",
-  "generatedAt": "2026-08-31T12:51:55Z",
+  "generatedAt": "2026-08-31T15:28:43Z",
   "items": [
+    {
+      "id": "489620b02faecb3d",
+      "title": "Caufield et Xhekaj de retour sur la glace à Brossard",
+      "summary": "Les deux joueurs du Canadien ont patiné pour la première fois de l'été au complexe de Brossard, à deux semaines de l'ouverture du camp d'entraînement.",
+      "source": "DansLesCoulisses",
+      "url": "https://www.danslescoulisses.com/brossard-cole-caufield-et-arber-xhekaj-patinent-pour-la-premiere-fois-de-lete/",
+      "publishedAt": "2026-08-31T15:08:00Z",
+      "keyPoints": [
+        "Le camp principal s'ouvre le 16 septembre, celui des recrues le 9 septembre.",
+        "Kapanen, Dobson et Texier ont eux aussi chaussé les patins pour la première fois.",
+        "Suzuki, Slafkovsky, Dach et Guhle ne s'étaient toujours pas présentés à Brossard cet été."
+      ],
+      "topic": "Camp"
+    },
+    {
+      "id": "67970491f6f83c76",
+      "title": "Le contrat de Cale Makar rebat les cartes chez les défenseurs",
+      "summary": "Son entente à 20,4 M$ par saison jusqu'en 2035 fixe une nouvelle référence, dont DansLesCoulisses estime qu'elle complique la situation de Quinn Hughes au Minnesota.",
+      "source": "DansLesCoulisses",
+      "url": "https://www.danslescoulisses.com/quand-cale-makar-aide-les-devils/",
+      "publishedAt": "2026-08-31T14:03:00Z",
+      "keyPoints": [
+        "Le contrat court sur huit saisons, de 2027 à 2035.",
+        "Le Minnesota devrait engager près de 37 M$ sur deux joueurs pour suivre cette barre.",
+        "Le New Jersey suit le dossier Hughes, dont deux frères évoluent déjà chez les Devils."
+      ],
+      "topic": "Plafond salarial"
+    },
     {
       "id": "b88f311da84cbf4d",
       "title": "Un espoir du Canadien prolonge de trois ans en KHL",

@@ -1,8 +1,35 @@
 {
   "schemaVersion": 1,
   "sport": "basketball",
-  "generatedAt": "2026-08-31T12:51:55Z",
+  "generatedAt": "2026-08-31T15:28:43Z",
   "items": [
+    {
+      "id": "586383f70002d0d9",
+      "title": "Jaylen Brown fait ses adieux à Boston avant les Sixers",
+      "summary": "L'ailier a réuni ses partisans au Boston Common pour une fête d'adieu, avant de rejoindre Philadelphie.",
+      "source": "Hoops Rumors",
+      "url": "https://www.hoopsrumors.com/2026/08/jaylen-brown-says-goodbye-to-boston-at-farewell-party.html",
+      "publishedAt": "2026-08-31T13:56:00Z",
+      "keyPoints": [
+        "La mairesse de Boston lui a remis les clés de la ville lors de l'événement.",
+        "La soirée mêlait prestations musicales et hommage des partisans."
+      ],
+      "topic": "Transfert"
+    },
+    {
+      "id": "c453c6581ec019cd",
+      "title": "Avdija privé de qualifications par les Trail Blazers",
+      "summary": "L'ailier israélien affirme que Portland lui a refusé de disputer les qualifications au Mondial 2027, par prudence après sa blessure au dos.",
+      "source": "Hoops Rumors",
+      "url": "https://www.hoopsrumors.com/2026/08/deni-avdija-says-trail-blazers-wouldnt-let-him-participate-in-fiba-world-cup-qualifiers.html",
+      "publishedAt": "2026-08-31T11:56:00Z",
+      "keyPoints": [
+        "La blessure au bas du dos remonte au 11 janvier 2026 et l'avait écarté jusqu'au tournoi de repêchage.",
+        "Il sort de sa meilleure saison : 24,2 points, 6,9 rebonds et 6,7 passes en 66 matches.",
+        "Sans lui, Israël s'est incliné de vingt points face à la Pologne et voit le Mondial s'éloigner."
+      ],
+      "topic": "Blessure"
+    },
     {
       "id": "e32e995ed280666a",
       "title": "Valanciunas quitte la NBA pour le Zalgiris Kaunas",
