@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sport": "basketball",
-  "generatedAt": "2026-08-31T15:28:43Z",
+  "generatedAt": "2026-09-01T12:27:20Z",
   "items": [
     {
       "id": "586383f70002d0d9",
@@ -31,6 +31,20 @@
       "topic": "Blessure"
     },
     {
+      "id": "d2342969407fbd61",
+      "title": "Les Warriors installeront leur camp d'entraînement à Hawaï",
+      "summary": "Golden State préparera la saison sur le campus de BYU-Hawaii, à Laie, du 29 septembre au 3 octobre, avant six matchs de présaison.",
+      "source": "Hoops Rumors",
+      "url": "https://www.hoopsrumors.com/2026/08/warriors-announce-hawaii-training-camp-preseason-schedule.html",
+      "publishedAt": "2026-08-31T00:00:00Z",
+      "keyPoints": [
+        "La journée médias est fixée au 28 septembre au Chase Center de San Francisco.",
+        "Il s'agit du sixième camp de la franchise à Hawaï depuis 2001.",
+        "La présaison s'ouvrira le 4 octobre face aux Clippers à Honolulu."
+      ],
+      "topic": "Calendrier"
+    },
+    {
       "id": "e32e995ed280666a",
       "title": "Valanciunas quitte la NBA pour le Zalgiris Kaunas",
       "summary": "Apres quatorze saisons en NBA, le pivot de 34 ans s'est engage pour deux ans avec le club lituanien et a inscrit 20 points en 19 minutes lors de sa premiere sortie de preparation.",
@@ -45,22 +59,6 @@
       "source": "Hoops Rumors",
       "url": "https://www.hoopsrumors.com/2026/08/eastern-notes-duren-essengue-suggs-sweeney.html",
       "publishedAt": "2026-08-30T13:30:00Z"
-    },
-    {
-      "id": "94606e6a05a6d62b",
-      "title": "John Konchar libere par Minnesota, Miami a l'affut",
-      "summary": "Le Heat surveille l'arriere-ailier ecarte par les Timberwolves : Miami dispose d'une place sur son effectif et pourrait lui proposer un contrat au minimum une fois le joueur libere de tout lien.",
-      "source": "Hoops Rumors",
-      "url": "https://www.hoopsrumors.com/2026/08/heat-notes-konchar-hall-larsson-spoelstra.html",
-      "publishedAt": "2026-08-30T03:01:00Z"
-    },
-    {
-      "id": "124f7649a7768890",
-      "title": "Les enqueteurs s'interessent au proprietaire des Clippers",
-      "summary": "Selon ESPN, les echanges avec Steve Ballmer et ses avocats portent surtout sur un defaut de supervision plutot que sur une preuve directe de contournement du plafond salarial dans le dossier Kawhi Leonard.",
-      "source": "Hoops Rumors",
-      "url": "https://www.hoopsrumors.com/2026/08/investigators-having-conversations-with-steve-ballmer-in-cap-circumvention-case.html",
-      "publishedAt": "2026-08-30T01:54:00Z"
     }
   ]
 }

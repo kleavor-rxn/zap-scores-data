@@ -1,8 +1,36 @@
 {
   "schemaVersion": 1,
   "sport": "f1",
-  "generatedAt": "2026-08-31T15:28:43Z",
+  "generatedAt": "2026-09-01T12:27:20Z",
   "items": [
+    {
+      "id": "5d1d2c2b522c7b91",
+      "title": "Vettel et Barrichello piloteront la F2002 de Schumacher",
+      "summary": "Ferrari fera rouler en démonstration sa monoplace victorieuse de 2002 pendant le week-end du Grand Prix d'Italie, avec deux anciens pilotes de la marque aux commandes.",
+      "source": "Crash.net",
+      "url": "https://www.crash.net/f1/news/1103375/1/sebastian-vettel-make-ferrari-f1-return-michael-schumacher-monza-celebration",
+      "publishedAt": "2026-09-01T07:00:00Z",
+      "keyPoints": [
+        "Barrichello roulera le samedi avant les qualifications, Vettel le dimanche avant le départ.",
+        "La F2002 développe environ 900 chevaux et grimpe jusqu'à 19 000 tours par minute.",
+        "La démonstration se fera avec un carburant durable conçu par Shell aux normes 2026."
+      ],
+      "topic": "Hommage"
+    },
+    {
+      "id": "22fa07c21741af1f",
+      "title": "Ferrari dévoile une livrée hommage à Schumacher pour Monza",
+      "summary": "La Scuderia habillera sa SF-26 d'une décoration inspirée de la F310 de 1996 à l'occasion de son Grand Prix à domicile.",
+      "source": "Motorsport Week",
+      "url": "https://www.motorsportweek.com/2026/09/01/ferrari-michael-schumacher-f1-livery/",
+      "publishedAt": "2026-09-01T06:00:00Z",
+      "keyPoints": [
+        "L'opération marque les 30 ans de l'arrivée de Michael Schumacher chez Ferrari.",
+        "Dès cette première saison en rouge, l'Allemand avait signé trois victoires en Grand Prix.",
+        "Monza accueille chaque année une livrée spéciale : Niki Lauda était honoré l'an dernier."
+      ],
+      "topic": "Hommage"
+    },
     {
       "id": "03a0d8a38511dcbb",
       "title": "Ben Sulayem répond à Sainz père après sa candidature abandonnée",
@@ -78,14 +106,6 @@
       "source": "PlanetF1",
       "url": "https://www.planetf1.com/news/lando-norris-rival-interest-mclaren-contract",
       "publishedAt": "2026-08-30T12:31:00Z"
-    },
-    {
-      "id": "5c957dc1df8f4a9b",
-      "title": "Le depart du GP des Pays-Bas sera rediscute au briefing de Monza",
-      "summary": "Plusieurs pilotes ont conteste le choix d'un depart arrete apres un seul tour derriere la voiture de securite, sur une piste encore humide par endroits ; le sujet sera remis sur la table en Italie.",
-      "source": "Nextgen-Auto",
-      "url": "https://motorsport.nextgen-auto.com/fr/formule-1/la-procedure-du-depart-du-gp-des-pays-bas-va-etre-reexaminee,210951.html",
-      "publishedAt": "2026-08-30T06:17:00Z"
     }
   ]
 }

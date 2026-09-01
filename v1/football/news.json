@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sport": "football",
-  "generatedAt": "2026-08-31T15:28:43Z",
+  "generatedAt": "2026-09-01T12:27:20Z",
   "items": [
     {
       "id": "68b52039709e99da",
@@ -73,28 +73,31 @@
       "publishedAt": "2026-08-30T21:00:00Z"
     },
     {
-      "id": "d159261554dd0901",
-      "title": "Barcola a Liverpool pour boucler son transfert depuis le PSG",
-      "summary": "L'ailier international francais s'est presente au centre d'entrainement des Reds dimanche pour sa visite medicale, sur la base d'un accord evalue autour de 145 millions d'euros avec Paris.",
-      "source": "Foot Mercato",
-      "url": "https://www.footmercato.net/a7330550373202251033-bradley-barcola-est-arrive-a-liverpool",
-      "publishedAt": "2026-08-30T11:35:00Z"
+      "id": "a61d54b3fa54d4b9",
+      "title": "Strasbourg s'offre le latéral gauche Joaquin Oso",
+      "summary": "Le club alsacien renforce son couloir gauche avec un défenseur venu de Liga, au terme d'une journée de mercato animée en Ligue 1.",
+      "source": "Orange Sports",
+      "url": "https://sports.orange.fr/football/mercato/article/mercato-l-essentiel-a-retenir-de-ce-dimanche-30-aout-exclu-CNT000002rCqs4.html",
+      "publishedAt": "2026-08-30T20:34:00Z",
+      "keyPoints": [
+        "L'indemnité versée au FC Séville s'élève à 10 millions d'euros.",
+        "Le contrat du latéral court jusqu'en 2031, soit cinq saisons.",
+        "Le Havre a de son côté enrôlé le défenseur sénégalais Mouhamed Lamine Ndiaye."
+      ],
+      "topic": "Mercato"
     },
     {
-      "id": "75ba843697f0f784",
-      "title": "Newcastle fait plier Tottenham 2-0 a Londres",
-      "summary": "Les Spurs restent sans le moindre but apres deux journees de Premier League : Elanga puis Wissa ont marque en seconde periode, offrant a Matthias Jaissle sa premiere victoire sur le banc de Newcastle.",
-      "source": "Sky Sports",
-      "url": "https://www.skysports.com/football/tottenham-hotspur-vs-newcastle-united/report/559463",
-      "publishedAt": "2026-08-29T21:38:00Z"
-    },
-    {
-      "id": "f3965f6e5344d30f",
-      "title": "Lilian Brassier quitte Rennes pour l'Eintracht Francfort",
-      "summary": "Le defenseur central s'engage cinq ans avec le club allemand, jusqu'en juin 2031. Rennes recupere environ 10 millions d'euros, auxquels peuvent s'ajouter 2 millions de bonus.",
-      "source": "Foot Mercato",
-      "url": "https://www.footmercato.net/a1501543622380143028-rennes-cest-boucle-pour-lilian-brassier-a-francfort",
-      "publishedAt": "2026-08-29T16:30:00Z"
+      "id": "d54f2c643d721234",
+      "title": "Chelsea recrute Emiliano Martinez et le titularise aussitôt",
+      "summary": "Le gardien argentin quitte Aston Villa après six saisons pour rejoindre Chelsea. Xabi Alonso l'a lancé dans le grand bain quelques heures seulement après l'officialisation de sa signature.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/soccer/story/_/id/49771748/emi-martinez-chelsea-brighton-premier-league",
+      "publishedAt": "2026-08-30T12:31:00Z",
+      "keyPoints": [
+        "À 33 ans, l'Argentin prend la place de Robert Sánchez dans la hiérarchie des gardiens.",
+        "Sánchez avait encaissé deux buts lors du succès inaugural 3-2 contre Fulham."
+      ],
+      "topic": "Mercato"
     }
   ]
 }
