@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "sport": "football",
-  "generatedAt": "2026-09-01T12:27:20Z",
+  "generatedAt": "2026-09-01T14:25:57Z",
   "items": [
+    {
+      "id": "35b476581a9c828e",
+      "title": "Manchester City s'offre le Bresilien Allan, Lille attire Ayase Ueda",
+      "summary": "Dans la derniere ligne droite du mercato, Manchester City a recrute Allan a Palmeiras pour plus de 40 millions d'euros, tandis que Lille a fait venir l'attaquant japonais Ayase Ueda de Feyenoord.",
+      "source": "Orange Sport",
+      "url": "https://sports.orange.fr/football/mercato/article/mercato-l-essentiel-a-retenir-de-ce-lundi-31-aout-exclu-CNT000002rDv6G.html",
+      "publishedAt": "2026-08-31T21:55:00Z",
+      "keyPoints": [
+        "Allan s'est engage pour cinq saisons avec Manchester City, contre plus de 40 millions d'euros.",
+        "Ueda, 28 ans, est lie au LOSC jusqu'en 2030 pour un montant de 15 millions d'euros.",
+        "Lens a boucle le pret avec obligation d'achat de Junior Kadile, estime a 7 millions."
+      ],
+      "topic": "Mercato"
+    },
     {
       "id": "68b52039709e99da",
       "title": "Messi met un terme à sa carrière internationale avec l'Argentine",
@@ -24,6 +38,20 @@
       "source": "Foot Mercato",
       "url": "https://www.footmercato.net/a2197366226577777665-al-hilal-annonce-le-depart-de-karim-benzema",
       "publishedAt": "2026-08-31T14:21:00Z",
+      "topic": "Mercato"
+    },
+    {
+      "id": "2592d70b6e4ee246",
+      "title": "Barcola quitte le PSG pour Liverpool contre 145 millions d'euros",
+      "summary": "L'ailier francais Bradley Barcola, 23 ans, s'est engage avec Liverpool. L'operation, 125 millions d'euros assortis de 20 millions de bonus, devient la plus grosse vente jamais realisee par un club de Ligue 1.",
+      "source": "Eurosport",
+      "url": "https://www.eurosport.fr/football/premier-league/2026-2027/officiel-bradley-barcola-sengage-avec-liverpool-vente-estimee-a-140-millions-pour-le-psg_sto23332874/story.shtml",
+      "publishedAt": "2026-08-31T13:35:00Z",
+      "keyPoints": [
+        "Le precedent record d'une vente de Ligue 1 appartenait a Ayyoub Bouaddi, parti de Lille a Manchester City pour 100 millions.",
+        "En trois saisons parisiennes, Barcola a inscrit 39 buts et delivre 37 passes decisives, pour 13 trophees remportes.",
+        "Recrute a Lyon a l'ete 2023 pour environ 45 millions, il laisse une plus-value considerable au PSG."
+      ],
       "topic": "Mercato"
     },
     {
@@ -65,6 +93,20 @@
       "publishedAt": "2026-08-31T12:06:00Z"
     },
     {
+      "id": "aaf59375cde42f13",
+      "title": "Le mercato ferme ses portes : Ligue 1 lundi, Premier League mardi",
+      "summary": "Le marche des transferts a ferme en France et en Allemagne lundi soir a 20 heures. L'Angleterre, l'Espagne et l'Italie bouclent leur fenetre estivale ce mardi 1er septembre.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/8/31/transfer-deadline-day-2026-football-summer-signing-window-barcola-gakpo-alvarez",
+      "publishedAt": "2026-08-31T12:00:00Z",
+      "keyPoints": [
+        "La Premier League ferme mardi a 23 heures locales, la Liga une minute avant minuit.",
+        "La Serie A boucle son mercato mardi a 20 heures, comme la Ligue 1 la veille.",
+        "Un club ayant depose sa feuille d'accord avant l'heure limite dispose de deux heures pour finaliser."
+      ],
+      "topic": "Calendrier"
+    },
+    {
       "id": "4f6ccee5583fb82d",
       "title": "Monaco s'installe en tete de la Ligue 1 apres avoir battu l'OM",
       "summary": "Un double de Paris Brunner, a la 13e puis a la 54e minute, a suffi aux Monegasques pour s'imposer 2-0 au Louis-II et prendre seuls la premiere place apres deux journees.",
@@ -83,19 +125,6 @@
         "L'indemnité versée au FC Séville s'élève à 10 millions d'euros.",
         "Le contrat du latéral court jusqu'en 2031, soit cinq saisons.",
         "Le Havre a de son côté enrôlé le défenseur sénégalais Mouhamed Lamine Ndiaye."
-      ],
-      "topic": "Mercato"
-    },
-    {
-      "id": "d54f2c643d721234",
-      "title": "Chelsea recrute Emiliano Martinez et le titularise aussitôt",
-      "summary": "Le gardien argentin quitte Aston Villa après six saisons pour rejoindre Chelsea. Xabi Alonso l'a lancé dans le grand bain quelques heures seulement après l'officialisation de sa signature.",
-      "source": "ESPN",
-      "url": "https://www.espn.com/soccer/story/_/id/49771748/emi-martinez-chelsea-brighton-premier-league",
-      "publishedAt": "2026-08-30T12:31:00Z",
-      "keyPoints": [
-        "À 33 ans, l'Argentin prend la place de Robert Sánchez dans la hiérarchie des gardiens.",
-        "Sánchez avait encaissé deux buts lors du succès inaugural 3-2 contre Fulham."
       ],
       "topic": "Mercato"
     }

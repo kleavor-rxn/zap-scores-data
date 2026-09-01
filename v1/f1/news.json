@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sport": "f1",
-  "generatedAt": "2026-09-01T12:27:20Z",
+  "generatedAt": "2026-09-01T14:25:57Z",
   "items": [
     {
       "id": "5d1d2c2b522c7b91",
@@ -30,6 +30,20 @@
         "Monza accueille chaque année une livrée spéciale : Niki Lauda était honoré l'an dernier."
       ],
       "topic": "Hommage"
+    },
+    {
+      "id": "77b9a06fbc27e316",
+      "title": "La FIA fixe quatre zones de Straight Mode pour le Grand Prix d'Italie",
+      "summary": "Quatre secteurs de Monza permettront aux pilotes d'activer le Straight Mode, qui remplace le DRS. Un mode depassement accorde en plus 0,5 MJ d'energie electrique avant la Parabolica.",
+      "source": "GPFans",
+      "url": "https://www.gpfans.com/en/f1-news/1089722/fia-italian-grand-prix-monza-announces-circuit-configuratio/",
+      "publishedAt": "2026-08-31T21:28:00Z",
+      "keyPoints": [
+        "Les zones couvrent la ligne droite principale, la Curva Grande, la sortie des Lesmo et celle d'Ascari.",
+        "Avec le mode depassement, la voiture poursuivante peut atteindre 337 km/h contre 290 km/h devant.",
+        "Le Straight Mode reduit la trainee des ailerons avant et arriere au lieu d'ouvrir un volet."
+      ],
+      "topic": "Reglement"
     },
     {
       "id": "03a0d8a38511dcbb",
@@ -77,11 +91,17 @@
     },
     {
       "id": "0e21d0200663195e",
-      "title": "Grand Prix d'Italie : le programme du week-end de Monza",
-      "summary": "La F1 reprend du 4 au 6 septembre a Monza, avec les deux premieres seances libres vendredi, la troisieme puis les qualifications samedi, et le depart de la course dimanche a 15h.",
+      "title": "Retour a la vitesse pure : la F1 a Monza du 4 au 6 septembre",
+      "summary": "Apres deux traces sinueux, le championnat retrouve un circuit tres rapide pour le Grand Prix d'Italie. La gestion du deploiement d'energie sera au coeur du week-end.",
       "source": "Nextgen-Auto",
       "url": "https://motorsport.nextgen-auto.com/fr/formule-1/presentation-et-horaires-du-grand-prix-d-italie-2026-de-f1,210943.html",
-      "publishedAt": "2026-08-31T04:35:00Z"
+      "publishedAt": "2026-08-31T04:35:00Z",
+      "keyPoints": [
+        "La course est programmee le dimanche 6 septembre a 15h00, apres les qualifications du samedi.",
+        "Lando Norris et McLaren ont remporte les deux dernieres manches du championnat.",
+        "Mercedes est attendue a son avantage sur un trace qui privilegie la puissance."
+      ],
+      "topic": "Calendrier"
     },
     {
       "id": "c6d0559815606dd2",
@@ -90,22 +110,6 @@
       "source": "Sky Sports",
       "url": "https://www.skysports.com/f1/news/12433/13577758/italian-gp-2026-dates-schedule-weather-uk-start-time-and-how-to-watch-or-stream-f1-race-at-monza-live-on-sky-sports",
       "publishedAt": "2026-08-30T22:04:00Z"
-    },
-    {
-      "id": "5bd1e4055336a111",
-      "title": "Rafael Camara au volant d'une Haas lors d'un essai prive",
-      "summary": "Le champion de Formule 3 en titre, protege de Ferrari, a roule a Portimao sur la Haas VF-25 pendant trois jours, aux cotes de Ryo Hirakawa et Leonardo Fornaroli.",
-      "source": "PlanetF1",
-      "url": "https://www.planetf1.com/news/ferrari-rafael-camara-haas-test-f1-2027",
-      "publishedAt": "2026-08-30T13:55:00Z"
-    },
-    {
-      "id": "4fd0ba266510534f",
-      "title": "Lando Norris prolonge chez McLaren jusqu'en 2030",
-      "summary": "Le Britannique a repousse les approches d'autres ecuries et etendu son engagement jusqu'a fin 2030, avec des options au-dela, quelques jours apres ses succes en Hongrie et a Zandvoort.",
-      "source": "PlanetF1",
-      "url": "https://www.planetf1.com/news/lando-norris-rival-interest-mclaren-contract",
-      "publishedAt": "2026-08-30T12:31:00Z"
     }
   ]
 }

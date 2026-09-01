@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "sport": "hockey",
-  "generatedAt": "2026-09-01T12:27:20Z",
+  "generatedAt": "2026-09-01T14:25:57Z",
   "items": [
+    {
+      "id": "5bae1cef2919ff1b",
+      "title": "Cale Makar signe le contrat le plus riche de l'histoire de la LNH",
+      "summary": "Le defenseur de l'Avalanche du Colorado a paraphe une prolongation de huit saisons evaluee a 163,2 millions de dollars, soit 20,4 millions par annee.",
+      "source": "NHL.com",
+      "url": "https://www.nhl.com/news/cale-makar-signs-eight-year-contract-with-colorado-avalanche",
+      "publishedAt": "2026-08-31T16:00:00Z",
+      "keyPoints": [
+        "Makar devient le premier joueur de la LNH a franchir la barre des 20 millions par saison.",
+        "L'entente couvre les saisons 2026-2027 a 2033-2034.",
+        "Le record precedent appartenait a Macklin Celebrini et sa moyenne annuelle de 18,8 millions."
+      ],
+      "topic": "Contrat"
+    },
     {
       "id": "489620b02faecb3d",
       "title": "Caufield et Xhekaj de retour sur la glace à Brossard",
@@ -38,14 +52,6 @@
       "source": "Pro Hockey Rumors",
       "url": "https://www.prohockeyrumors.com/2026/08/atlantic-notes-batherson-volokhin-steen.html",
       "publishedAt": "2026-08-30T22:59:00Z"
-    },
-    {
-      "id": "81ed5bead97a169b",
-      "title": "Columbus veut regler le dossier Fantilli avant le camp",
-      "summary": "Le centre est toujours sans contrat pour la saison a venir alors que le camp d'entrainement des Blue Jackets s'ouvre le 16 septembre ; la direction se dit confiante malgre un ecart d'evaluation.",
-      "source": "Pro Hockey Rumors",
-      "url": "https://www.prohockeyrumors.com/2026/08/blue-jackets-expect-to-sign-adam-fantilli-before-camp.html",
-      "publishedAt": "2026-08-30T13:58:00Z"
     }
   ]
 }
