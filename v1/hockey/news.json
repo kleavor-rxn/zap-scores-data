@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sport": "hockey",
-  "generatedAt": "2026-09-01T14:25:57Z",
+  "generatedAt": "2026-09-01T23:27:54Z",
   "items": [
     {
       "id": "5bae1cef2919ff1b",
@@ -46,12 +46,19 @@
       "topic": "Plafond salarial"
     },
     {
-      "id": "b88f311da84cbf4d",
-      "title": "Un espoir du Canadien prolonge de trois ans en KHL",
-      "summary": "Le gardien Yevgeni Volokhin, repeche par Montreal en 2023, restera au Spartak jusqu'en 2028-2029 : faute d'entente de transfert entre la KHL et la LNH, son arrivee en Amerique du Nord s'eloigne.",
-      "source": "Pro Hockey Rumors",
-      "url": "https://www.prohockeyrumors.com/2026/08/atlantic-notes-batherson-volokhin-steen.html",
-      "publishedAt": "2026-08-30T22:59:00Z"
+      "id": "4a2bbc9784e21060",
+      "title": "Le Wild se dit confiant de prolonger Quinn Hughes",
+      "summary": "Le directeur général du Minnesota assure que la relation avec son défenseur vedette est excellente et que les échanges se poursuivent en vue d'une nouvelle entente.",
+      "source": "NHL.com",
+      "url": "https://www.nhl.com/news/bill-guerin-confident-quinn-hughes-will-sign-new-contract-with-minnesota-wild",
+      "publishedAt": "2026-08-31T12:00:00Z",
+      "keyPoints": [
+        "Hughes peut signer une prolongation depuis le 1er juillet 2026.",
+        "Il deviendrait joueur autonome sans compensation le 1er juillet 2027.",
+        "Acquis de Vancouver en décembre 2025, il a récolté 53 points en 48 matchs au Minnesota.",
+        "Son contrat actuel porte une moyenne annuelle de 7,85 M$."
+      ],
+      "topic": "Contrat"
     }
   ]
 }

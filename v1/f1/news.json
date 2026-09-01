@@ -1,8 +1,23 @@
 {
   "schemaVersion": 1,
   "sport": "f1",
-  "generatedAt": "2026-09-01T14:25:57Z",
+  "generatedAt": "2026-09-01T23:27:54Z",
   "items": [
+    {
+      "id": "ebe1e89a88bf6397",
+      "title": "Ferrari dévoile une livrée hommage à Schumacher pour Monza",
+      "summary": "La Scuderia fera courir sa monoplace dans une décoration spéciale ce week-end, trente ans après les débuts de l'Allemand au sein de l'écurie italienne.",
+      "source": "PlanetF1",
+      "url": "https://www.planetf1.com/news/michael-schumacher-ferrari-tribute-italian-gp-livery",
+      "publishedAt": "2026-09-01T09:41:00Z",
+      "keyPoints": [
+        "La décoration s'inspire de la F310 pilotée par Schumacher lors de sa première saison, en 1996.",
+        "Sept étoiles, reprises de son casque, sont apposées sur le museau de la voiture.",
+        "Les couleurs blanche et bleue des sponsors principaux disparaissent le temps du week-end.",
+        "Hamilton et Leclerc porteront des combinaisons assorties, marquées du logo du septuple champion."
+      ],
+      "topic": "Hommage"
+    },
     {
       "id": "5d1d2c2b522c7b91",
       "title": "Vettel et Barrichello piloteront la F2002 de Schumacher",
@@ -44,6 +59,20 @@
         "Le Straight Mode reduit la trainee des ailerons avant et arriere au lieu d'ouvrir un volet."
       ],
       "topic": "Reglement"
+    },
+    {
+      "id": "aa66c61a59873965",
+      "title": "Antonelli partira du fond de grille à Monza, chez lui",
+      "summary": "Le leader du championnat encaissera une pénalité à son Grand Prix national après le montage d'un groupe propulseur entièrement neuf par Mercedes.",
+      "source": "Formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/its-race-week-5-storylines-were-excited-about-ahead-of-the-2026-italian-grand-prix.4qYVYBYKFmNR4iogKqZayk",
+      "publishedAt": "2026-08-31T15:17:00Z",
+      "keyPoints": [
+        "Antonelli compte 59 points d'avance au championnat pour sa deuxième saison en F1.",
+        "Lewis Hamilton partage la deuxième place à 59 longueurs du leader.",
+        "Chez les constructeurs, Ferrari accuse 87 points de retard sur Mercedes."
+      ],
+      "topic": "Sanction"
     },
     {
       "id": "03a0d8a38511dcbb",
@@ -102,14 +131,6 @@
         "Mercedes est attendue a son avantage sur un trace qui privilegie la puissance."
       ],
       "topic": "Calendrier"
-    },
-    {
-      "id": "c6d0559815606dd2",
-      "title": "Monza : Antonelli relegue en fond de grille pour un moteur neuf",
-      "summary": "Le leader du championnat partira de l'arriere au Grand Prix d'Italie apres un changement de groupe propulseur, ce qui ouvre une breche a ses poursuivants sur le circuit lombard.",
-      "source": "Sky Sports",
-      "url": "https://www.skysports.com/f1/news/12433/13577758/italian-gp-2026-dates-schedule-weather-uk-start-time-and-how-to-watch-or-stream-f1-race-at-monza-live-on-sky-sports",
-      "publishedAt": "2026-08-30T22:04:00Z"
     }
   ]
 }

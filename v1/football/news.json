@@ -1,8 +1,36 @@
 {
   "schemaVersion": 1,
   "sport": "football",
-  "generatedAt": "2026-09-01T14:25:57Z",
+  "generatedAt": "2026-09-01T23:27:54Z",
   "items": [
+    {
+      "id": "1a95c970bcc48295",
+      "title": "Newcastle s'offre Fernandez-Pardo à Lille pour 51 millions de livres",
+      "summary": "Le club anglais a bouclé la venue de l'attaquant belge dans les toutes dernières heures du marché des transferts, et lui a confié le numéro 20.",
+      "source": "Sky Sports",
+      "url": "https://www.skysports.com/football/news/11095/13579855/matias-fernandez-pardo-transfer-news-newcastle-sign-lille-forward-ahead-of-transfer-deadline-in-deal-worth-lb51m",
+      "publishedAt": "2026-09-01T18:48:00Z",
+      "keyPoints": [
+        "L'ailier belge de 21 ans a inscrit huit buts en 41 rencontres avec Lille la saison passée.",
+        "Newcastle porte ainsi ses dépenses estivales à 262 millions de livres.",
+        "Cette arrivée a permis à Nick Woltemade de rejoindre la Juventus en prêt payant de 3,5 M£."
+      ],
+      "topic": "Mercato"
+    },
+    {
+      "id": "3b7ec1c6c534ed84",
+      "title": "L'OL boucle un accord à 20 millions d'euros pour Keito Nakamura",
+      "summary": "Lyon s'est entendu avec le Stade de Reims pour l'ailier japonais le jour de la clôture du marché, la signature restant suspendue à sa visite médicale.",
+      "source": "beIN Sports",
+      "url": "https://www.beinsports.com/fr-fr/football/mercato-football_mercato/articles/mercato-l-ol-frappe-fort-et-s-offre-keito-nakamura-pour-20-m-2026-09-01",
+      "publishedAt": "2026-09-01T12:00:00Z",
+      "keyPoints": [
+        "Le joueur de 26 ans doit s'engager pour quatre saisons avec le club rhodanien.",
+        "Le montant de 20 millions d'euros inclut les bonus prévus au contrat.",
+        "Lyon anticipe le départ probable de Malick Fofana vers la Premier League."
+      ],
+      "topic": "Mercato"
+    },
     {
       "id": "35b476581a9c828e",
       "title": "Manchester City s'offre le Bresilien Allan, Lille attire Ayase Ueda",
@@ -14,6 +42,21 @@
         "Allan s'est engage pour cinq saisons avec Manchester City, contre plus de 40 millions d'euros.",
         "Ueda, 28 ans, est lie au LOSC jusqu'en 2030 pour un montant de 15 millions d'euros.",
         "Lens a boucle le pret avec obligation d'achat de Junior Kadile, estime a 7 millions."
+      ],
+      "topic": "Mercato"
+    },
+    {
+      "id": "2592d70b6e4ee246",
+      "title": "Barcola quitte le PSG pour Liverpool contre 145 millions d'euros",
+      "summary": "Le PSG a laissé partir son ailier international français chez le champion d'Angleterre lundi, au terme d'une opération qui devient la plus grosse vente de l'histoire du club parisien et du championnat de France.",
+      "source": "Eurosport",
+      "url": "https://www.eurosport.fr/football/premier-league/2026-2027/officiel-bradley-barcola-sengage-avec-liverpool-vente-estimee-a-140-millions-pour-le-psg_sto23332874/story.shtml",
+      "publishedAt": "2026-08-31T20:00:00Z",
+      "keyPoints": [
+        "Le montant atteint 145 M€, dont 20 M€ de bonus jugés facilement atteignables.",
+        "L'ancien record de vente d'un club de Ligue 1 était de 100 M€, pour Ayyoub Bouaddi à Manchester City.",
+        "En trois saisons parisiennes, l'ailier de 23 ans a compilé 39 buts et 37 passes décisives.",
+        "Liverpool cherchait un renfort sur les ailes après le départ de Mohamed Salah cet été."
       ],
       "topic": "Mercato"
     },
@@ -38,20 +81,6 @@
       "source": "Foot Mercato",
       "url": "https://www.footmercato.net/a2197366226577777665-al-hilal-annonce-le-depart-de-karim-benzema",
       "publishedAt": "2026-08-31T14:21:00Z",
-      "topic": "Mercato"
-    },
-    {
-      "id": "2592d70b6e4ee246",
-      "title": "Barcola quitte le PSG pour Liverpool contre 145 millions d'euros",
-      "summary": "L'ailier francais Bradley Barcola, 23 ans, s'est engage avec Liverpool. L'operation, 125 millions d'euros assortis de 20 millions de bonus, devient la plus grosse vente jamais realisee par un club de Ligue 1.",
-      "source": "Eurosport",
-      "url": "https://www.eurosport.fr/football/premier-league/2026-2027/officiel-bradley-barcola-sengage-avec-liverpool-vente-estimee-a-140-millions-pour-le-psg_sto23332874/story.shtml",
-      "publishedAt": "2026-08-31T13:35:00Z",
-      "keyPoints": [
-        "Le precedent record d'une vente de Ligue 1 appartenait a Ayyoub Bouaddi, parti de Lille a Manchester City pour 100 millions.",
-        "En trois saisons parisiennes, Barcola a inscrit 39 buts et delivre 37 passes decisives, pour 13 trophees remportes.",
-        "Recrute a Lyon a l'ete 2023 pour environ 45 millions, il laisse une plus-value considerable au PSG."
-      ],
       "topic": "Mercato"
     },
     {
@@ -105,28 +134,6 @@
         "Un club ayant depose sa feuille d'accord avant l'heure limite dispose de deux heures pour finaliser."
       ],
       "topic": "Calendrier"
-    },
-    {
-      "id": "4f6ccee5583fb82d",
-      "title": "Monaco s'installe en tete de la Ligue 1 apres avoir battu l'OM",
-      "summary": "Un double de Paris Brunner, a la 13e puis a la 54e minute, a suffi aux Monegasques pour s'imposer 2-0 au Louis-II et prendre seuls la premiere place apres deux journees.",
-      "source": "Foot Mercato",
-      "url": "https://www.footmercato.net/a6347027780660221347-monaco-om-les-notes-du-match",
-      "publishedAt": "2026-08-30T21:00:00Z"
-    },
-    {
-      "id": "a61d54b3fa54d4b9",
-      "title": "Strasbourg s'offre le latéral gauche Joaquin Oso",
-      "summary": "Le club alsacien renforce son couloir gauche avec un défenseur venu de Liga, au terme d'une journée de mercato animée en Ligue 1.",
-      "source": "Orange Sports",
-      "url": "https://sports.orange.fr/football/mercato/article/mercato-l-essentiel-a-retenir-de-ce-dimanche-30-aout-exclu-CNT000002rCqs4.html",
-      "publishedAt": "2026-08-30T20:34:00Z",
-      "keyPoints": [
-        "L'indemnité versée au FC Séville s'élève à 10 millions d'euros.",
-        "Le contrat du latéral court jusqu'en 2031, soit cinq saisons.",
-        "Le Havre a de son côté enrôlé le défenseur sénégalais Mouhamed Lamine Ndiaye."
-      ],
-      "topic": "Mercato"
     }
   ]
 }

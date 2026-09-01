@@ -1,8 +1,23 @@
 {
   "schemaVersion": 1,
   "sport": "basketball",
-  "generatedAt": "2026-09-01T14:25:57Z",
+  "generatedAt": "2026-09-01T23:27:54Z",
   "items": [
+    {
+      "id": "17c09b6857839b1b",
+      "title": "Bras de fer entre Detroit et Jalen Duren sur son nouveau contrat",
+      "summary": "Le pivot et les Pistons restent éloignés sur le salaire annuel, et la négociation s'installe dans la durée à un mois de l'échéance fixée par la ligue.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nba/story/_/id/49777992/nba-free-agency-detroit-pistons-jalen-duren-contract-standoff",
+      "publishedAt": "2026-09-01T11:00:00Z",
+      "keyPoints": [
+        "Detroit propose environ 35 M$ par an sur cinq ans, quand le clan Duren vise plus de 40 M$.",
+        "L'offre qualificative de 9,6 M$ reste sur la table jusqu'au 1er octobre.",
+        "À 22 ans, il a tourné à 19,5 points et 10,5 rebonds pour une équipe à 60 victoires.",
+        "Sa sélection dans la troisième équipe All-NBA lui ouvrait droit à un maximum majoré."
+      ],
+      "topic": "Contrat"
+    },
     {
       "id": "586383f70002d0d9",
       "title": "Jaylen Brown fait ses adieux à Boston avant les Sixers",
@@ -57,14 +72,6 @@
         "La présaison s'ouvrira le 4 octobre face aux Clippers à Honolulu."
       ],
       "topic": "Calendrier"
-    },
-    {
-      "id": "e32e995ed280666a",
-      "title": "Valanciunas quitte la NBA pour le Zalgiris Kaunas",
-      "summary": "Apres quatorze saisons en NBA, le pivot de 34 ans s'est engage pour deux ans avec le club lituanien et a inscrit 20 points en 19 minutes lors de sa premiere sortie de preparation.",
-      "source": "Hoops Rumors",
-      "url": "https://www.hoopsrumors.com/2026/08/international-notes-valanciunas-france-howard-monaco.html",
-      "publishedAt": "2026-08-30T19:26:00Z"
     }
   ]
 }
