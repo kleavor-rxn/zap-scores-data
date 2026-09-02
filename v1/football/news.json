@@ -1,8 +1,61 @@
 {
   "schemaVersion": 1,
   "sport": "football",
-  "generatedAt": "2026-09-01T23:27:54Z",
+  "generatedAt": "2026-09-02T11:30:32Z",
   "items": [
+    {
+      "id": "9cbd4852b34f1a58",
+      "title": "Les clubs de Ligue 1 encaissent 1,33 milliard d'euros",
+      "summary": "À la clôture du marché estival, les clubs français affichent un total de ventes de 1,33 milliard d'euros, deuxième volume européen derrière la Premier League.",
+      "source": "Foot Mercato",
+      "url": "https://www.footmercato.net/a4175564941788459808-ligue-1-le-chiffre-impressionnant-des-ventes-sur-le-mercato-dete",
+      "publishedAt": "2026-09-02T09:18:00Z",
+      "keyPoints": [
+        "Les clubs anglais ont dépensé plus de 800 M€ sur le seul marché français.",
+        "Bouaddi, Barcola, Gonçalo Ramos et Fernandez-Pardo comptent parmi les plus grosses ventes."
+      ],
+      "topic": "Mercato"
+    },
+    {
+      "id": "2378843d77c908ab",
+      "title": "Malick Fofana s'engage avec Sunderland",
+      "summary": "L'ailier belge de 21 ans quitte l'Olympique Lyonnais pour le club anglais au terme d'un feuilleton de dernière minute, contre 30 M€ assortis de 5 M€ de bonus.",
+      "source": "Maxifoot",
+      "url": "https://news.maxifoot.fr/lyon/fofana-rejoint-sunderland-officiel-foot-463152.htm",
+      "publishedAt": "2026-09-01T23:19:00Z",
+      "keyPoints": [
+        "Lyon garde 12,5 % de la plus-value sur un futur transfert du joueur.",
+        "Fofana n'avait disputé que deux rencontres de Ligue 1 cette saison, pour un but."
+      ],
+      "topic": "Mercato"
+    },
+    {
+      "id": "e489c6ff4787ef8a",
+      "title": "Manchester City s'offre Enzo Fernandez pour 125 M£",
+      "summary": "Manchester City a bouclé le recrutement du milieu argentin de Chelsea le dernier jour du mercato, pour une somme qui égale le record de transfert britannique.",
+      "source": "Sky Sports",
+      "url": "https://www.skysports.com/transfer/news/12691/13579667/enzo-fernandez-transfer-news-manchester-city-agree-lb125m-deal-to-sign-chelsea-midfielder-on-deadline-day",
+      "publishedAt": "2026-09-01T22:34:00Z",
+      "keyPoints": [
+        "Le montant de 125 M£ égale le record britannique établi par Alexander Isak vers Liverpool.",
+        "Chelsea avait acheté le joueur 107 M£ il y a trois ans et demi et dégage donc 18 M£ de plus-value.",
+        "Fernandez retrouve Enzo Maresca, son ancien entraîneur à Chelsea, passé sur le banc mancunien."
+      ],
+      "topic": "Mercato"
+    },
+    {
+      "id": "2caf82c4fb3755da",
+      "title": "Iliman Ndiaye quitte Everton pour Manchester City",
+      "summary": "Le Sénégalais s'est engagé cinq ans avec Manchester City quelques heures avant la fermeture du marché anglais, pour une indemnité de 60 M£ assortie de 5 M£ de bonus.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/soccer/story/_/id/49773926/iliman-ndiaye-joins-man-city-everton",
+      "publishedAt": "2026-09-01T20:11:00Z",
+      "keyPoints": [
+        "Ndiaye laisse derrière lui 17 buts en 74 matches sous le maillot d'Everton en deux saisons.",
+        "City s'est rabattu sur lui après avoir échoué sur la piste Cody Gakpo à Liverpool."
+      ],
+      "topic": "Mercato"
+    },
     {
       "id": "1a95c970bcc48295",
       "title": "Newcastle s'offre Fernandez-Pardo à Lille pour 51 millions de livres",
@@ -14,6 +67,19 @@
         "L'ailier belge de 21 ans a inscrit huit buts en 41 rencontres avec Lille la saison passée.",
         "Newcastle porte ainsi ses dépenses estivales à 262 millions de livres.",
         "Cette arrivée a permis à Nick Woltemade de rejoindre la Juventus en prêt payant de 3,5 M£."
+      ],
+      "topic": "Mercato"
+    },
+    {
+      "id": "51bc250542d50bd1",
+      "title": "Newcastle recrute Fernandez-Pardo pour 65 M€",
+      "summary": "Lille a cédé son ailier belge de 21 ans à Newcastle contre 65 millions d'euros, tout en conservant un intéressement de 20 % sur une future revente.",
+      "source": "Orange Sport",
+      "url": "https://sports.orange.fr/football/mercato/article/lille-fernandez-pardo-rejoint-newcastle-pour-65-millions-d-euros-exclu-CNT000002rEmuv.html",
+      "publishedAt": "2026-09-01T14:46:00Z",
+      "keyPoints": [
+        "Le LOSC avait recruté le joueur pour environ 11 M€ deux ans plus tôt.",
+        "Il s'agit de la huitième recrue estivale de l'effectif professionnel de Newcastle."
       ],
       "topic": "Mercato"
     },
@@ -96,44 +162,6 @@
         "Quatrième choix offensif au PSG, il cherchait avant tout du temps de jeu."
       ],
       "topic": "Mercato"
-    },
-    {
-      "id": "af9670f6d828ee37",
-      "title": "Daniel Munoz quitte Crystal Palace pour Nottingham Forest",
-      "summary": "Le lateral droit colombien de 30 ans rejoint Forest contre quelque 26 millions d'euros, avec un contrat de trois saisons assorti d'une annee en option.",
-      "source": "Foot Mercato",
-      "url": "https://www.footmercato.net/a753005128566773126-nottingham-forest-soffre-daniel-munoz-pour-26-meur",
-      "publishedAt": "2026-08-31T12:19:00Z"
-    },
-    {
-      "id": "180aec36216c7a3a",
-      "title": "Jonathan David proche d'un pret de la Juventus a l'Atletico",
-      "summary": "L'attaquant canadien, peu en reussite lors de sa premiere saison turinoise, a donne son feu vert a un pret assorti d'une option d'achat vers Madrid, dont le club prendrait en charge plus de la moitie du salaire.",
-      "source": "Foot Mercato",
-      "url": "https://www.footmercato.net/a6104101728822584243-latletico-de-madrid-a-boucle-larrivee-de-jonathan-david",
-      "publishedAt": "2026-08-31T12:12:00Z"
-    },
-    {
-      "id": "60720fee2eb063cb",
-      "title": "Manchester City officialise l'arrivee du Bresilien Allan Elias",
-      "summary": "Le club anglais a confirme la signature de l'ailier de 22 ans en provenance de Palmeiras, pour environ 40 millions d'euros et un bail de cinq ans.",
-      "source": "Foot Mercato",
-      "url": "https://www.footmercato.net/a2099217547581952966-manchester-city-annonce-larrivee-dallan-elias",
-      "publishedAt": "2026-08-31T12:06:00Z"
-    },
-    {
-      "id": "aaf59375cde42f13",
-      "title": "Le mercato ferme ses portes : Ligue 1 lundi, Premier League mardi",
-      "summary": "Le marche des transferts a ferme en France et en Allemagne lundi soir a 20 heures. L'Angleterre, l'Espagne et l'Italie bouclent leur fenetre estivale ce mardi 1er septembre.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/8/31/transfer-deadline-day-2026-football-summer-signing-window-barcola-gakpo-alvarez",
-      "publishedAt": "2026-08-31T12:00:00Z",
-      "keyPoints": [
-        "La Premier League ferme mardi a 23 heures locales, la Liga une minute avant minuit.",
-        "La Serie A boucle son mercato mardi a 20 heures, comme la Ligue 1 la veille.",
-        "Un club ayant depose sa feuille d'accord avant l'heure limite dispose de deux heures pour finaliser."
-      ],
-      "topic": "Calendrier"
     }
   ]
 }

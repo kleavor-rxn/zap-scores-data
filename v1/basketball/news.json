@@ -1,8 +1,49 @@
 {
   "schemaVersion": 1,
   "sport": "basketball",
-  "generatedAt": "2026-09-01T23:27:54Z",
+  "generatedAt": "2026-09-02T11:30:32Z",
   "items": [
+    {
+      "id": "3c0e0f1a1f85e807",
+      "title": "Miles Bridges veut se réinventer en défense à Phoenix",
+      "summary": "Arrivé cet été chez les Suns, l'ailier dit vouloir progresser en défense et au rebond plutôt que de se reposer sur son seul apport offensif.",
+      "source": "Basket USA",
+      "url": "https://www.basketusa.com/news/922688/a-phoenix-miles-bridges-veut-franchir-un-cap-en-defense/",
+      "publishedAt": "2026-09-02T09:30:00Z",
+      "keyPoints": [
+        "Bridges tourne à 19,6 points et 6,9 rebonds de moyenne sur ses quatre dernières saisons.",
+        "Phoenix l'associe à Dillon Brooks pour durcir sa défense sur les postes extérieurs."
+      ],
+      "topic": "Effectif"
+    },
+    {
+      "id": "73e268be43b3311f",
+      "title": "Thanasis Antetokounmpo quitte la NBA pour la Grèce",
+      "summary": "L'ailier grec s'est engagé avec l'Aris Salonique après six saisons passées à Milwaukee, et ne rejoindra donc pas son frère Giannis à Miami.",
+      "source": "Basket USA",
+      "url": "https://www.basketusa.com/news/922632/thanasis-antetokounmpo-ne-rejoindra-pas-giannis-a-miami/",
+      "publishedAt": "2026-09-02T05:46:00Z",
+      "keyPoints": [
+        "Son contrat court sur trois ans, dont deux garantis et une option d'équipe.",
+        "Il y retrouve son frère Kostas, déjà sous les couleurs de l'Aris.",
+        "Giannis Antetokounmpo a rejoint le Heat à la fin du mois de juin."
+      ],
+      "topic": "Transfert"
+    },
+    {
+      "id": "cc0e8db2847eee6c",
+      "title": "Bras de fer entre Jalen Duren et les Pistons",
+      "summary": "Le pivot de Detroit réclame plus de 40 millions par saison quand la franchise en propose environ 35, et pourrait accepter l'offre qualificative pour viser la libre agence en 2027.",
+      "source": "Basket USA",
+      "url": "https://www.basketusa.com/news/922573/jalen-duren-pret-a-prendre-un-risque-a-170-millions-de-dollars/",
+      "publishedAt": "2026-09-01T13:48:00Z",
+      "keyPoints": [
+        "Detroit a mis sur la table cinq saisons pour environ 175 millions de dollars au total.",
+        "L'offre qualificative ne s'élève qu'à 9,6 millions de dollars pour un an.",
+        "Duren sort d'un exercice à 19,5 points et 10,5 rebonds de moyenne en 70 matches."
+      ],
+      "topic": "Contrat"
+    },
     {
       "id": "17c09b6857839b1b",
       "title": "Bras de fer entre Detroit et Jalen Duren sur son nouveau contrat",
@@ -44,34 +85,6 @@
         "Sans lui, Israël s'est incliné de vingt points face à la Pologne et voit le Mondial s'éloigner."
       ],
       "topic": "Blessure"
-    },
-    {
-      "id": "6e44985009be69ab",
-      "title": "Boston fete le depart de Jaylen Brown, echange aux 76ers",
-      "summary": "Dix ans apres ses debuts avec les Celtics, l'ailier a recu la cle de la ville lors d'un rassemblement au Boston Common, deux mois apres son transfert a Philadelphie.",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nba/story/_/id/49778671/jaylen-brown-boston-celtics-farewell-block-party-key-city-nba",
-      "publishedAt": "2026-08-31T02:47:00Z",
-      "keyPoints": [
-        "Brown a ete echange aux Philadelphia 76ers le 1er juillet 2026.",
-        "Il avait ete nomme joueur par excellence de la finale 2024, remportee par Boston.",
-        "Une plaque de rue a son nom lui a ete remise par la mairesse de Boston."
-      ],
-      "topic": "Hommage"
-    },
-    {
-      "id": "d2342969407fbd61",
-      "title": "Les Warriors installeront leur camp d'entraînement à Hawaï",
-      "summary": "Golden State préparera la saison sur le campus de BYU-Hawaii, à Laie, du 29 septembre au 3 octobre, avant six matchs de présaison.",
-      "source": "Hoops Rumors",
-      "url": "https://www.hoopsrumors.com/2026/08/warriors-announce-hawaii-training-camp-preseason-schedule.html",
-      "publishedAt": "2026-08-31T00:00:00Z",
-      "keyPoints": [
-        "La journée médias est fixée au 28 septembre au Chase Center de San Francisco.",
-        "Il s'agit du sixième camp de la franchise à Hawaï depuis 2001.",
-        "La présaison s'ouvrira le 4 octobre face aux Clippers à Honolulu."
-      ],
-      "topic": "Calendrier"
     }
   ]
 }

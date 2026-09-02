@@ -1,8 +1,63 @@
 {
   "schemaVersion": 1,
   "sport": "f1",
-  "generatedAt": "2026-09-01T23:27:54Z",
+  "generatedAt": "2026-09-02T11:30:32Z",
   "items": [
+    {
+      "id": "960c67e4944457a6",
+      "title": "Haas amène un nouveau package à Monza",
+      "summary": "Après plusieurs courses sans le moindre point, l'écurie américaine introduit ce week-end en Italie ses premières évolutions majeures depuis longtemps.",
+      "source": "Motorsport.com",
+      "url": "https://fr.motorsport.com/f1/news/haas-apporte-evolutions-monza-komatsu-redresser-barre/10851505/",
+      "publishedAt": "2026-09-02T09:18:00Z",
+      "keyPoints": [
+        "Haas n'a plus marqué le moindre point depuis Monaco en juin.",
+        "Oliver Bearman avait pourtant terminé cinquième en Chine en début de saison.",
+        "Audi, Alpine et Racing Bulls ont progressé et repoussé Haas en fond de peloton."
+      ],
+      "topic": "Technique"
+    },
+    {
+      "id": "1bebd68fd0a982d4",
+      "title": "L'Argentine relance l'idée d'un Grand Prix de F1",
+      "summary": "Le président argentin pousse pour un retour de la Formule 1 dans son pays, porté par la rénovation du circuit de Buenos Aires et la popularité de Franco Colapinto.",
+      "source": "Motorsport.com",
+      "url": "https://fr.motorsport.com/f1/news/president-milei-retour-f1-argentine/10851525/",
+      "publishedAt": "2026-09-02T08:26:00Z",
+      "keyPoints": [
+        "L'autodrome Juan y Oscar Galvez fait l'objet de 150 millions de dollars de travaux, achevés à 60 %.",
+        "Le tracé doit passer de 4,3 à 4,8 km, pour une capacité supérieure à 150 000 spectateurs.",
+        "La dernière épreuve de Formule 1 disputée en Argentine remonte à 1998."
+      ],
+      "topic": "Calendrier"
+    },
+    {
+      "id": "82da0ea4993b8962",
+      "title": "Un an sans victoire pour Oscar Piastri",
+      "summary": "L'Australien de McLaren n'a plus gagné de Grand Prix depuis Zandvoort fin août 2025, une disette d'un an qui contraste avec la forme de son coéquipier.",
+      "source": "Motorsport.com",
+      "url": "https://fr.motorsport.com/f1/news/piastri-365-jours-sans-victoire-vilaine-stat/10851350/",
+      "publishedAt": "2026-09-02T06:51:00Z",
+      "keyPoints": [
+        "Sa dernière victoire remonte au Grand Prix des Pays-Bas du 31 août 2025.",
+        "Lando Norris mène 22 à 7 en qualifications depuis cette course, avec neuf succès.",
+        "Piastri n'a pas pris le départ à Melbourne ni en Chine cette saison, pour des ennuis moteur."
+      ],
+      "topic": "Statistiques"
+    },
+    {
+      "id": "de31dc769ff5d2c2",
+      "title": "Red Bull enrôle Tom McCullough pour 2027",
+      "summary": "L'écurie autrichienne a recruté l'ingénieur d'Aston Martin comme directeur de la performance, en remplacement de Gianpiero Lambiase, à partir de la saison 2027.",
+      "source": "Motorsport.com",
+      "url": "https://fr.motorsport.com/f1/news/red-bull-tom-mccullough-remplacant-lambiase-aston-martin/10851429/",
+      "publishedAt": "2026-09-01T16:31:00Z",
+      "keyPoints": [
+        "Lambiase quitte Red Bull pour McLaren, où il occupera un poste de directeur de la compétition.",
+        "McCullough, 50 ans, a passé de longues années chez Force India, Racing Point puis Aston Martin."
+      ],
+      "topic": "Transfert"
+    },
     {
       "id": "ebe1e89a88bf6397",
       "title": "Ferrari dévoile une livrée hommage à Schumacher pour Monza",
@@ -87,50 +142,6 @@
         "Les règles de parrainage de l'élection avaient été critiquées comme quasi dissuasives."
       ],
       "topic": "FIA"
-    },
-    {
-      "id": "df2fb2da462d951b",
-      "title": "Vol de cables sur le futur circuit madrilene de la F1",
-      "summary": "Environ 300 metres de cables electriques ont disparu aux abords du Madring et la police espagnole enquete ; les organisateurs maintiennent la tenue de l'epreuve prevue le 13 septembre.",
-      "source": "Nextgen-Auto",
-      "url": "https://motorsport.nextgen-auto.com/fr/formule-1/le-madring-victime-d-un-vol-de-cables-a-deux-semaines-des-debuts-de-la-f1,210977.html",
-      "publishedAt": "2026-08-31T10:52:00Z"
-    },
-    {
-      "id": "8c23412b16a6a001",
-      "title": "Antonelli s'elancera du fond de la grille a Monza",
-      "summary": "Mercedes a choisi d'installer une serie d'elements moteur neufs sur la voiture de son pilote, ce qui entraine une penalite : l'ecurie juge le trace italien, riche en zones de depassement, le moins couteux pour l'encaisser.",
-      "source": "Nextgen-Auto",
-      "url": "https://motorsport.nextgen-auto.com/fr/formule-1/antonelli-penalise-a-monza-le-pari-calcule-et-explique-par-mercedes-f1,210971.html",
-      "publishedAt": "2026-08-31T08:38:00Z"
-    },
-    {
-      "id": "0ae8615a36838b5e",
-      "title": "Ferrari s'apprête à prolonger Hamilton, Bearman face à un choix",
-      "summary": "La Scuderia envisagerait d'étendre le contrat du Britannique jusqu'en 2028 ou 2029, ce qui refermerait durablement la porte à son jeune pilote sous contrat.",
-      "source": "Nextgen-Auto",
-      "url": "https://motorsport.nextgen-auto.com/fr/formule-1/ferrari-sur-le-point-de-prolonger-hamilton-pour-un-ou-deux-ans-bearman-a-un,210969.html",
-      "publishedAt": "2026-08-31T07:54:00Z",
-      "keyPoints": [
-        "Hamilton est aujourd'hui engagé jusqu'en 2027, avec une option à son avantage.",
-        "Leclerc étant lié jusqu'en 2030, un baquet Ferrari ne se libérerait pas avant plusieurs saisons.",
-        "Bearman, sous contrat jusqu'en 2027, a dit ne pas vouloir attendre indéfiniment une place."
-      ],
-      "topic": "Contrats"
-    },
-    {
-      "id": "0e21d0200663195e",
-      "title": "Retour a la vitesse pure : la F1 a Monza du 4 au 6 septembre",
-      "summary": "Apres deux traces sinueux, le championnat retrouve un circuit tres rapide pour le Grand Prix d'Italie. La gestion du deploiement d'energie sera au coeur du week-end.",
-      "source": "Nextgen-Auto",
-      "url": "https://motorsport.nextgen-auto.com/fr/formule-1/presentation-et-horaires-du-grand-prix-d-italie-2026-de-f1,210943.html",
-      "publishedAt": "2026-08-31T04:35:00Z",
-      "keyPoints": [
-        "La course est programmee le dimanche 6 septembre a 15h00, apres les qualifications du samedi.",
-        "Lando Norris et McLaren ont remporte les deux dernieres manches du championnat.",
-        "Mercedes est attendue a son avantage sur un trace qui privilegie la puissance."
-      ],
-      "topic": "Calendrier"
     }
   ]
 }

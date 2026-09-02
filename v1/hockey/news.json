@@ -1,8 +1,36 @@
 {
   "schemaVersion": 1,
   "sport": "hockey",
-  "generatedAt": "2026-09-01T23:27:54Z",
+  "generatedAt": "2026-09-02T11:30:32Z",
   "items": [
+    {
+      "id": "397fdf0c55d1c36e",
+      "title": "Luke Evangelista passe des Predators aux Devils",
+      "summary": "Nashville a échangé son ailier de 24 ans au New Jersey contre un choix conditionnel de premier tour et un choix de deuxième tour au repêchage 2028.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nhl/story/_/id/49798946/new-jersey-devils-land-evangelista-nashville-predators",
+      "publishedAt": "2026-09-02T01:48:00Z",
+      "keyPoints": [
+        "Evangelista sort d'une saison à 56 points, dont 12 buts, en 81 rencontres.",
+        "Le New Jersey n'a inscrit que 2,76 buts par match l'an dernier, sixième pire total de la ligue.",
+        "Nashville dispose désormais de deux choix de premier tour au repêchage 2028."
+      ],
+      "topic": "Transaction"
+    },
+    {
+      "id": "55b8ae8f6962e2ab",
+      "title": "Les Ducks retireront le numéro 15 de Ryan Getzlaf",
+      "summary": "Anaheim honorera son ancien capitaine le 30 janvier, lors d'une soirée face aux Predators de Nashville, quatre ans après sa retraite sportive.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nhl/story/_/id/49797141/anaheim-ducks-retire-former-captain-ryan-getzlaf-no-15",
+      "publishedAt": "2026-09-01T22:05:00Z",
+      "keyPoints": [
+        "Getzlaf reste le meilleur pointeur de l'histoire des Ducks avec 1 019 points en 1 157 matches.",
+        "Son numéro sera le quatrième retiré par la franchise, après ceux de Selanne, Kariya et Niedermayer.",
+        "Il a porté le C pendant douze saisons, la plus longue durée dans l'histoire du club."
+      ],
+      "topic": "Hommage"
+    },
     {
       "id": "5bae1cef2919ff1b",
       "title": "Cale Makar signe le contrat le plus riche de l'histoire de la LNH",
