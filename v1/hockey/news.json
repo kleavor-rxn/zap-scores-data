@@ -1,8 +1,36 @@
 {
   "schemaVersion": 1,
   "sport": "hockey",
-  "generatedAt": "2026-09-02T11:30:32Z",
+  "generatedAt": "2026-09-03T15:44:13Z",
   "items": [
+    {
+      "id": "eef6c5fbcce6d638",
+      "title": "Huberdeau ralenti dans sa convalescence a Calgary",
+      "summary": "Le directeur general des Flames a indique que l'attaquant quebecois a connu un contretemps en patinant, environ deux semaines plus tot. Sa presence au premier match de la saison n'est plus acquise.",
+      "source": "Yahoo Sports",
+      "url": "https://sports.yahoo.com/articles/flames-announce-disappointing-health-setback-171253264.html",
+      "publishedAt": "2026-09-02T17:12:53Z",
+      "keyPoints": [
+        "Il a subi une operation de resurfacage de la hanche au mois de mars dernier.",
+        "Le camp d'entrainement des Flames s'ouvre dans moins de trois semaines.",
+        "La saison passee, il s'etait limite a 50 matchs pour 10 buts et 15 aides."
+      ],
+      "topic": "Blessure"
+    },
+    {
+      "id": "bbf57f68264d842e",
+      "title": "Le marche de la LNH se reveille : Evangelista file au New Jersey",
+      "summary": "Nashville a echange l'attaquant Luke Evangelista aux Devils contre deux choix de repechage. C'est l'un des premiers mouvements notables du circuit depuis le debut du mois de juillet.",
+      "source": "Yahoo Sports",
+      "url": "https://sports.yahoo.com/articles/weeks-ice-nhl-trade-signing-110000382.html",
+      "publishedAt": "2026-09-02T11:00:00Z",
+      "keyPoints": [
+        "Les Predators recuperent un choix conditionnel de premier tour en 2028 et un choix de deuxieme tour.",
+        "Evangelista, 24 ans, sort d'une saison de 56 points, un sommet personnel.",
+        "Les Rangers ont de leur cote mis Eeli Tolvanen sous contrat pour une saison."
+      ],
+      "topic": "Transaction"
+    },
     {
       "id": "397fdf0c55d1c36e",
       "title": "Luke Evangelista passe des Predators aux Devils",
@@ -30,63 +58,6 @@
         "Il a porté le C pendant douze saisons, la plus longue durée dans l'histoire du club."
       ],
       "topic": "Hommage"
-    },
-    {
-      "id": "5bae1cef2919ff1b",
-      "title": "Cale Makar signe le contrat le plus riche de l'histoire de la LNH",
-      "summary": "Le defenseur de l'Avalanche du Colorado a paraphe une prolongation de huit saisons evaluee a 163,2 millions de dollars, soit 20,4 millions par annee.",
-      "source": "NHL.com",
-      "url": "https://www.nhl.com/news/cale-makar-signs-eight-year-contract-with-colorado-avalanche",
-      "publishedAt": "2026-08-31T16:00:00Z",
-      "keyPoints": [
-        "Makar devient le premier joueur de la LNH a franchir la barre des 20 millions par saison.",
-        "L'entente couvre les saisons 2026-2027 a 2033-2034.",
-        "Le record precedent appartenait a Macklin Celebrini et sa moyenne annuelle de 18,8 millions."
-      ],
-      "topic": "Contrat"
-    },
-    {
-      "id": "489620b02faecb3d",
-      "title": "Caufield et Xhekaj de retour sur la glace à Brossard",
-      "summary": "Les deux joueurs du Canadien ont patiné pour la première fois de l'été au complexe de Brossard, à deux semaines de l'ouverture du camp d'entraînement.",
-      "source": "DansLesCoulisses",
-      "url": "https://www.danslescoulisses.com/brossard-cole-caufield-et-arber-xhekaj-patinent-pour-la-premiere-fois-de-lete/",
-      "publishedAt": "2026-08-31T15:08:00Z",
-      "keyPoints": [
-        "Le camp principal s'ouvre le 16 septembre, celui des recrues le 9 septembre.",
-        "Kapanen, Dobson et Texier ont eux aussi chaussé les patins pour la première fois.",
-        "Suzuki, Slafkovsky, Dach et Guhle ne s'étaient toujours pas présentés à Brossard cet été."
-      ],
-      "topic": "Camp"
-    },
-    {
-      "id": "67970491f6f83c76",
-      "title": "Le contrat de Cale Makar rebat les cartes chez les défenseurs",
-      "summary": "Son entente à 20,4 M$ par saison jusqu'en 2035 fixe une nouvelle référence, dont DansLesCoulisses estime qu'elle complique la situation de Quinn Hughes au Minnesota.",
-      "source": "DansLesCoulisses",
-      "url": "https://www.danslescoulisses.com/quand-cale-makar-aide-les-devils/",
-      "publishedAt": "2026-08-31T14:03:00Z",
-      "keyPoints": [
-        "Le contrat court sur huit saisons, de 2027 à 2035.",
-        "Le Minnesota devrait engager près de 37 M$ sur deux joueurs pour suivre cette barre.",
-        "Le New Jersey suit le dossier Hughes, dont deux frères évoluent déjà chez les Devils."
-      ],
-      "topic": "Plafond salarial"
-    },
-    {
-      "id": "4a2bbc9784e21060",
-      "title": "Le Wild se dit confiant de prolonger Quinn Hughes",
-      "summary": "Le directeur général du Minnesota assure que la relation avec son défenseur vedette est excellente et que les échanges se poursuivent en vue d'une nouvelle entente.",
-      "source": "NHL.com",
-      "url": "https://www.nhl.com/news/bill-guerin-confident-quinn-hughes-will-sign-new-contract-with-minnesota-wild",
-      "publishedAt": "2026-08-31T12:00:00Z",
-      "keyPoints": [
-        "Hughes peut signer une prolongation depuis le 1er juillet 2026.",
-        "Il deviendrait joueur autonome sans compensation le 1er juillet 2027.",
-        "Acquis de Vancouver en décembre 2025, il a récolté 53 points en 48 matchs au Minnesota.",
-        "Son contrat actuel porte une moyenne annuelle de 7,85 M$."
-      ],
-      "topic": "Contrat"
     }
   ]
 }

@@ -1,8 +1,36 @@
 {
   "schemaVersion": 1,
   "sport": "basketball",
-  "generatedAt": "2026-09-02T11:30:32Z",
+  "generatedAt": "2026-09-03T15:44:13Z",
   "items": [
+    {
+      "id": "a504d70b56eae216",
+      "title": "Curry peut prolonger, Golden State lui laisse la main",
+      "summary": "Le meneur des Warriors est desormais eligible a une prolongation et la franchise le laisse choisir la formule. Aucune signature n'est intervenue a l'approche de l'ouverture du camp.",
+      "source": "Yahoo Sports",
+      "url": "https://sports.yahoo.com/articles/nba-offseason-news-trade-free-164807511.html",
+      "publishedAt": "2026-09-02T16:48:00Z",
+      "keyPoints": [
+        "Une prolongation de deux ans autour de 136,7 millions de dollars lui est ouverte des maintenant.",
+        "En patientant un ete de plus, il pourrait viser trois ans et 212,9 millions de dollars.",
+        "Il entame la derniere annee de son contrat actuel, a 62,6 millions de dollars."
+      ],
+      "topic": "Contrat"
+    },
+    {
+      "id": "639f945b9189bf71",
+      "title": "Sabonis change d'agent et relance les questions a Sacramento",
+      "summary": "L'interieur des Kings a confie sa representation a Aaron Mintz, de l'agence CAA. Plusieurs observateurs de la ligue y lisent le signe d'une envie de depart.",
+      "source": "Yahoo Sports",
+      "url": "https://sports.yahoo.com/articles/sacramento-kings-domantas-sabonis-could-105122549.html",
+      "publishedAt": "2026-09-02T10:51:22Z",
+      "keyPoints": [
+        "Aaron Mintz avait pilote le depart de Trae Young d'Atlanta la saison precedente.",
+        "Sacramento n'a pas l'intention d'ouvrir de discussion de prolongation avec son pivot.",
+        "Les Kings surveillent le dossier Jalen Duren, dont les negociations bloquent a Detroit."
+      ],
+      "topic": "Mercato"
+    },
     {
       "id": "3c0e0f1a1f85e807",
       "title": "Miles Bridges veut se réinventer en défense à Phoenix",
@@ -29,62 +57,6 @@
         "Giannis Antetokounmpo a rejoint le Heat à la fin du mois de juin."
       ],
       "topic": "Transfert"
-    },
-    {
-      "id": "cc0e8db2847eee6c",
-      "title": "Bras de fer entre Jalen Duren et les Pistons",
-      "summary": "Le pivot de Detroit réclame plus de 40 millions par saison quand la franchise en propose environ 35, et pourrait accepter l'offre qualificative pour viser la libre agence en 2027.",
-      "source": "Basket USA",
-      "url": "https://www.basketusa.com/news/922573/jalen-duren-pret-a-prendre-un-risque-a-170-millions-de-dollars/",
-      "publishedAt": "2026-09-01T13:48:00Z",
-      "keyPoints": [
-        "Detroit a mis sur la table cinq saisons pour environ 175 millions de dollars au total.",
-        "L'offre qualificative ne s'élève qu'à 9,6 millions de dollars pour un an.",
-        "Duren sort d'un exercice à 19,5 points et 10,5 rebonds de moyenne en 70 matches."
-      ],
-      "topic": "Contrat"
-    },
-    {
-      "id": "17c09b6857839b1b",
-      "title": "Bras de fer entre Detroit et Jalen Duren sur son nouveau contrat",
-      "summary": "Le pivot et les Pistons restent éloignés sur le salaire annuel, et la négociation s'installe dans la durée à un mois de l'échéance fixée par la ligue.",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nba/story/_/id/49777992/nba-free-agency-detroit-pistons-jalen-duren-contract-standoff",
-      "publishedAt": "2026-09-01T11:00:00Z",
-      "keyPoints": [
-        "Detroit propose environ 35 M$ par an sur cinq ans, quand le clan Duren vise plus de 40 M$.",
-        "L'offre qualificative de 9,6 M$ reste sur la table jusqu'au 1er octobre.",
-        "À 22 ans, il a tourné à 19,5 points et 10,5 rebonds pour une équipe à 60 victoires.",
-        "Sa sélection dans la troisième équipe All-NBA lui ouvrait droit à un maximum majoré."
-      ],
-      "topic": "Contrat"
-    },
-    {
-      "id": "586383f70002d0d9",
-      "title": "Jaylen Brown fait ses adieux à Boston avant les Sixers",
-      "summary": "L'ailier a réuni ses partisans au Boston Common pour une fête d'adieu, avant de rejoindre Philadelphie.",
-      "source": "Hoops Rumors",
-      "url": "https://www.hoopsrumors.com/2026/08/jaylen-brown-says-goodbye-to-boston-at-farewell-party.html",
-      "publishedAt": "2026-08-31T13:56:00Z",
-      "keyPoints": [
-        "La mairesse de Boston lui a remis les clés de la ville lors de l'événement.",
-        "La soirée mêlait prestations musicales et hommage des partisans."
-      ],
-      "topic": "Transfert"
-    },
-    {
-      "id": "c453c6581ec019cd",
-      "title": "Avdija privé de qualifications par les Trail Blazers",
-      "summary": "L'ailier israélien affirme que Portland lui a refusé de disputer les qualifications au Mondial 2027, par prudence après sa blessure au dos.",
-      "source": "Hoops Rumors",
-      "url": "https://www.hoopsrumors.com/2026/08/deni-avdija-says-trail-blazers-wouldnt-let-him-participate-in-fiba-world-cup-qualifiers.html",
-      "publishedAt": "2026-08-31T11:56:00Z",
-      "keyPoints": [
-        "La blessure au bas du dos remonte au 11 janvier 2026 et l'avait écarté jusqu'au tournoi de repêchage.",
-        "Il sort de sa meilleure saison : 24,2 points, 6,9 rebonds et 6,7 passes en 66 matches.",
-        "Sans lui, Israël s'est incliné de vingt points face à la Pologne et voit le Mondial s'éloigner."
-      ],
-      "topic": "Blessure"
     }
   ]
 }

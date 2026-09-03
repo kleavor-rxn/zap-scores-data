@@ -1,8 +1,36 @@
 {
   "schemaVersion": 1,
   "sport": "f1",
-  "generatedAt": "2026-09-02T11:30:32Z",
+  "generatedAt": "2026-09-03T15:44:13Z",
   "items": [
+    {
+      "id": "e19c3e064c413833",
+      "title": "Antonelli partira du fond de grille a domicile a Monza",
+      "summary": "Mercedes monte une unite de puissance neuve sur la voiture de son leader du championnat, ce qui lui vaudra une penalite de grille dimanche. Le moteur evolue de Brixworth, lui, n'arrivera pas avant la tournee americaine.",
+      "source": "Nextgen-Auto",
+      "url": "https://motorsport.nextgen-auto.com/fr/formule-1/mercedes-f1-n-aura-pas-son-moteur-evolue-a-monza-un-appel-a-penaliser-russell,211036.html",
+      "publishedAt": "2026-09-02T15:54:00Z",
+      "keyPoints": [
+        "Le pilote italien avait deja consomme les quatre moteurs thermiques autorises sur la saison.",
+        "Monza a ete retenu parce que ses longues lignes droites facilitent les remontees.",
+        "George Russell arrive lui aussi au bout de son quota et devrait etre penalise avant Austin."
+      ],
+      "topic": "Penalite"
+    },
+    {
+      "id": "a97d49aea5370944",
+      "title": "Lawson remplace encore Hadjar chez Red Bull a Monza",
+      "summary": "Toujours gene par une blessure au poignet, Isack Hadjar cede sa place a Liam Lawson pour le Grand Prix d'Italie. Yuki Tsunoda enchaine un deuxieme week-end chez Racing Bulls.",
+      "source": "Formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/lawson-to-replace-hadjar-again-at-red-bull-as-tsunoda-continues-to-substitute-for-racing-bulls-in-monza.4pI3a9wGM9uTDfK9DqRUMU",
+      "publishedAt": "2026-09-02T14:16:00Z",
+      "keyPoints": [
+        "Hadjar s'etait blesse au poignet pendant la treve estivale et manque une deuxieme course d'affilee.",
+        "Lawson avait marque des points a Zandvoort avec une septieme place au volant de la Red Bull.",
+        "Ayumu Iwasa est annonce en piste lors de la premiere seance d'essais libres, vendredi."
+      ],
+      "topic": "Blessure"
+    },
     {
       "id": "960c67e4944457a6",
       "title": "Haas amène un nouveau package à Monza",
@@ -57,91 +85,6 @@
         "McCullough, 50 ans, a passé de longues années chez Force India, Racing Point puis Aston Martin."
       ],
       "topic": "Transfert"
-    },
-    {
-      "id": "ebe1e89a88bf6397",
-      "title": "Ferrari dévoile une livrée hommage à Schumacher pour Monza",
-      "summary": "La Scuderia fera courir sa monoplace dans une décoration spéciale ce week-end, trente ans après les débuts de l'Allemand au sein de l'écurie italienne.",
-      "source": "PlanetF1",
-      "url": "https://www.planetf1.com/news/michael-schumacher-ferrari-tribute-italian-gp-livery",
-      "publishedAt": "2026-09-01T09:41:00Z",
-      "keyPoints": [
-        "La décoration s'inspire de la F310 pilotée par Schumacher lors de sa première saison, en 1996.",
-        "Sept étoiles, reprises de son casque, sont apposées sur le museau de la voiture.",
-        "Les couleurs blanche et bleue des sponsors principaux disparaissent le temps du week-end.",
-        "Hamilton et Leclerc porteront des combinaisons assorties, marquées du logo du septuple champion."
-      ],
-      "topic": "Hommage"
-    },
-    {
-      "id": "5d1d2c2b522c7b91",
-      "title": "Vettel et Barrichello piloteront la F2002 de Schumacher",
-      "summary": "Ferrari fera rouler en démonstration sa monoplace victorieuse de 2002 pendant le week-end du Grand Prix d'Italie, avec deux anciens pilotes de la marque aux commandes.",
-      "source": "Crash.net",
-      "url": "https://www.crash.net/f1/news/1103375/1/sebastian-vettel-make-ferrari-f1-return-michael-schumacher-monza-celebration",
-      "publishedAt": "2026-09-01T07:00:00Z",
-      "keyPoints": [
-        "Barrichello roulera le samedi avant les qualifications, Vettel le dimanche avant le départ.",
-        "La F2002 développe environ 900 chevaux et grimpe jusqu'à 19 000 tours par minute.",
-        "La démonstration se fera avec un carburant durable conçu par Shell aux normes 2026."
-      ],
-      "topic": "Hommage"
-    },
-    {
-      "id": "22fa07c21741af1f",
-      "title": "Ferrari dévoile une livrée hommage à Schumacher pour Monza",
-      "summary": "La Scuderia habillera sa SF-26 d'une décoration inspirée de la F310 de 1996 à l'occasion de son Grand Prix à domicile.",
-      "source": "Motorsport Week",
-      "url": "https://www.motorsportweek.com/2026/09/01/ferrari-michael-schumacher-f1-livery/",
-      "publishedAt": "2026-09-01T06:00:00Z",
-      "keyPoints": [
-        "L'opération marque les 30 ans de l'arrivée de Michael Schumacher chez Ferrari.",
-        "Dès cette première saison en rouge, l'Allemand avait signé trois victoires en Grand Prix.",
-        "Monza accueille chaque année une livrée spéciale : Niki Lauda était honoré l'an dernier."
-      ],
-      "topic": "Hommage"
-    },
-    {
-      "id": "77b9a06fbc27e316",
-      "title": "La FIA fixe quatre zones de Straight Mode pour le Grand Prix d'Italie",
-      "summary": "Quatre secteurs de Monza permettront aux pilotes d'activer le Straight Mode, qui remplace le DRS. Un mode depassement accorde en plus 0,5 MJ d'energie electrique avant la Parabolica.",
-      "source": "GPFans",
-      "url": "https://www.gpfans.com/en/f1-news/1089722/fia-italian-grand-prix-monza-announces-circuit-configuratio/",
-      "publishedAt": "2026-08-31T21:28:00Z",
-      "keyPoints": [
-        "Les zones couvrent la ligne droite principale, la Curva Grande, la sortie des Lesmo et celle d'Ascari.",
-        "Avec le mode depassement, la voiture poursuivante peut atteindre 337 km/h contre 290 km/h devant.",
-        "Le Straight Mode reduit la trainee des ailerons avant et arriere au lieu d'ouvrir un volet."
-      ],
-      "topic": "Reglement"
-    },
-    {
-      "id": "aa66c61a59873965",
-      "title": "Antonelli partira du fond de grille à Monza, chez lui",
-      "summary": "Le leader du championnat encaissera une pénalité à son Grand Prix national après le montage d'un groupe propulseur entièrement neuf par Mercedes.",
-      "source": "Formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/its-race-week-5-storylines-were-excited-about-ahead-of-the-2026-italian-grand-prix.4qYVYBYKFmNR4iogKqZayk",
-      "publishedAt": "2026-08-31T15:17:00Z",
-      "keyPoints": [
-        "Antonelli compte 59 points d'avance au championnat pour sa deuxième saison en F1.",
-        "Lewis Hamilton partage la deuxième place à 59 longueurs du leader.",
-        "Chez les constructeurs, Ferrari accuse 87 points de retard sur Mercedes."
-      ],
-      "topic": "Sanction"
-    },
-    {
-      "id": "03a0d8a38511dcbb",
-      "title": "Ben Sulayem répond à Sainz père après sa candidature abandonnée",
-      "summary": "Le président de la FIA estime que l'ancien champion de rallye n'avait pas mesuré l'ampleur de la fonction, qui dépasse largement le sport automobile.",
-      "source": "Nextgen-Auto",
-      "url": "https://motorsport.nextgen-auto.com/fr/formule-1/ben-sulayem-tacle-sainz-sr-apres-sa-candidature-avortee-a-la-presidence-de-la,210978.html",
-      "publishedAt": "2026-08-31T12:36:00Z",
-      "keyPoints": [
-        "Il décrit un poste couvrant la mobilité et la gestion, avec 245 membres dans le monde.",
-        "La présidence s'exerce sans rémunération, selon ses propres termes.",
-        "Les règles de parrainage de l'élection avaient été critiquées comme quasi dissuasives."
-      ],
-      "topic": "FIA"
     }
   ]
 }

@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "sport": "football",
-  "generatedAt": "2026-09-02T11:30:32Z",
+  "generatedAt": "2026-09-03T15:44:13Z",
   "items": [
+    {
+      "id": "623a1d87e0711bda",
+      "title": "Manchester City s'offre Enzo Fernandez pour 125 M£",
+      "summary": "Le milieu argentin quitte Chelsea pour Manchester City contre 125 millions de livres, un montant qui egale le record de transfert au Royaume-Uni. Il s'est engage pour cinq saisons.",
+      "source": "Sky Sports",
+      "url": "https://www.skysports.com/football/news/11679/13579972/enzo-fernandez-transfer-news-man-city-sign-midfielder-from-chelsea-in-british-record-equalling-lb125m-deal",
+      "publishedAt": "2026-09-02T16:46:00Z",
+      "keyPoints": [
+        "Le montant egale les 125 M£ verses par Liverpool a Newcastle pour Alexander Isak en septembre 2025.",
+        "Chelsea l'avait recrute environ 107 M£ trois ans et demi plus tot et degage donc une plus-value.",
+        "Il retrouve Enzo Maresca, qui l'avait deja dirige du cote de Chelsea."
+      ],
+      "topic": "Mercato"
+    },
     {
       "id": "9cbd4852b34f1a58",
       "title": "Les clubs de Ligue 1 encaissent 1,33 milliard d'euros",
@@ -13,6 +27,20 @@
       "keyPoints": [
         "Les clubs anglais ont dépensé plus de 800 M€ sur le seul marché français.",
         "Bouaddi, Barcola, Gonçalo Ramos et Fernandez-Pardo comptent parmi les plus grosses ventes."
+      ],
+      "topic": "Mercato"
+    },
+    {
+      "id": "01b2150337e08ad4",
+      "title": "Cloture du mercato anglais : Newcastle et Tottenham se renforcent",
+      "summary": "La fenetre estivale anglaise s'est refermee le 1er septembre au soir, suivie d'une vague d'officialisations. Newcastle a attire Matias Fernandez-Pardo, tandis que Tottenham a puise deux joueurs chez Chelsea.",
+      "source": "Sky Sports",
+      "url": "https://www.skysports.com/transfer/news/12691/13579708/transfer-deadline-day-deals-summer-2026-confirmed-moves-across-premier-league-championship-efl-europe-and-more",
+      "publishedAt": "2026-09-02T00:09:00Z",
+      "keyPoints": [
+        "Newcastle a debourse environ 51 M£ pour faire venir Matias Fernandez-Pardo de Lille.",
+        "Tottenham a obtenu Mykhaylo Mudryk en pret et Tosin Adarabioyo pour pres de 10 M£.",
+        "Jack Grealish repart en pret a Everton, qui cede dans le meme temps Iliman Ndiaye a Manchester City."
       ],
       "topic": "Mercato"
     },
@@ -67,99 +95,6 @@
         "L'ailier belge de 21 ans a inscrit huit buts en 41 rencontres avec Lille la saison passée.",
         "Newcastle porte ainsi ses dépenses estivales à 262 millions de livres.",
         "Cette arrivée a permis à Nick Woltemade de rejoindre la Juventus en prêt payant de 3,5 M£."
-      ],
-      "topic": "Mercato"
-    },
-    {
-      "id": "51bc250542d50bd1",
-      "title": "Newcastle recrute Fernandez-Pardo pour 65 M€",
-      "summary": "Lille a cédé son ailier belge de 21 ans à Newcastle contre 65 millions d'euros, tout en conservant un intéressement de 20 % sur une future revente.",
-      "source": "Orange Sport",
-      "url": "https://sports.orange.fr/football/mercato/article/lille-fernandez-pardo-rejoint-newcastle-pour-65-millions-d-euros-exclu-CNT000002rEmuv.html",
-      "publishedAt": "2026-09-01T14:46:00Z",
-      "keyPoints": [
-        "Le LOSC avait recruté le joueur pour environ 11 M€ deux ans plus tôt.",
-        "Il s'agit de la huitième recrue estivale de l'effectif professionnel de Newcastle."
-      ],
-      "topic": "Mercato"
-    },
-    {
-      "id": "3b7ec1c6c534ed84",
-      "title": "L'OL boucle un accord à 20 millions d'euros pour Keito Nakamura",
-      "summary": "Lyon s'est entendu avec le Stade de Reims pour l'ailier japonais le jour de la clôture du marché, la signature restant suspendue à sa visite médicale.",
-      "source": "beIN Sports",
-      "url": "https://www.beinsports.com/fr-fr/football/mercato-football_mercato/articles/mercato-l-ol-frappe-fort-et-s-offre-keito-nakamura-pour-20-m-2026-09-01",
-      "publishedAt": "2026-09-01T12:00:00Z",
-      "keyPoints": [
-        "Le joueur de 26 ans doit s'engager pour quatre saisons avec le club rhodanien.",
-        "Le montant de 20 millions d'euros inclut les bonus prévus au contrat.",
-        "Lyon anticipe le départ probable de Malick Fofana vers la Premier League."
-      ],
-      "topic": "Mercato"
-    },
-    {
-      "id": "35b476581a9c828e",
-      "title": "Manchester City s'offre le Bresilien Allan, Lille attire Ayase Ueda",
-      "summary": "Dans la derniere ligne droite du mercato, Manchester City a recrute Allan a Palmeiras pour plus de 40 millions d'euros, tandis que Lille a fait venir l'attaquant japonais Ayase Ueda de Feyenoord.",
-      "source": "Orange Sport",
-      "url": "https://sports.orange.fr/football/mercato/article/mercato-l-essentiel-a-retenir-de-ce-lundi-31-aout-exclu-CNT000002rDv6G.html",
-      "publishedAt": "2026-08-31T21:55:00Z",
-      "keyPoints": [
-        "Allan s'est engage pour cinq saisons avec Manchester City, contre plus de 40 millions d'euros.",
-        "Ueda, 28 ans, est lie au LOSC jusqu'en 2030 pour un montant de 15 millions d'euros.",
-        "Lens a boucle le pret avec obligation d'achat de Junior Kadile, estime a 7 millions."
-      ],
-      "topic": "Mercato"
-    },
-    {
-      "id": "2592d70b6e4ee246",
-      "title": "Barcola quitte le PSG pour Liverpool contre 145 millions d'euros",
-      "summary": "Le PSG a laissé partir son ailier international français chez le champion d'Angleterre lundi, au terme d'une opération qui devient la plus grosse vente de l'histoire du club parisien et du championnat de France.",
-      "source": "Eurosport",
-      "url": "https://www.eurosport.fr/football/premier-league/2026-2027/officiel-bradley-barcola-sengage-avec-liverpool-vente-estimee-a-140-millions-pour-le-psg_sto23332874/story.shtml",
-      "publishedAt": "2026-08-31T20:00:00Z",
-      "keyPoints": [
-        "Le montant atteint 145 M€, dont 20 M€ de bonus jugés facilement atteignables.",
-        "L'ancien record de vente d'un club de Ligue 1 était de 100 M€, pour Ayyoub Bouaddi à Manchester City.",
-        "En trois saisons parisiennes, l'ailier de 23 ans a compilé 39 buts et 37 passes décisives.",
-        "Liverpool cherchait un renfort sur les ailes après le départ de Mohamed Salah cet été."
-      ],
-      "topic": "Mercato"
-    },
-    {
-      "id": "68b52039709e99da",
-      "title": "Messi met un terme à sa carrière internationale avec l'Argentine",
-      "summary": "À 39 ans, l'attaquant argentin renonce à la sélection après plus de vingt ans sous le maillot albiceleste, en expliquant vouloir laisser la place aux jeunes.",
-      "source": "Foot Mercato",
-      "url": "https://www.footmercato.net/a4561159740515977207-lionel-messi-annonce-la-fin-de-sa-carriere-internationale-avec-largentine",
-      "publishedAt": "2026-08-31T15:12:00Z",
-      "keyPoints": [
-        "Il quitte l'Argentine sur 207 sélections et 125 buts, un record national.",
-        "Son palmarès international compte la Coupe du monde 2022, deux Copa América et la Finalissima.",
-        "Il dit avoir écrit son message dès le 21 juillet, deux jours après la finale mondiale perdue face à l'Espagne."
-      ],
-      "topic": "Sélection"
-    },
-    {
-      "id": "9c90580e71ccb70a",
-      "title": "Al-Hilal officialise le départ de Karim Benzema",
-      "summary": "Le club saoudien a confirmé la fin de l'aventure de l'attaquant français, au dernier jour de la période des transferts.",
-      "source": "Foot Mercato",
-      "url": "https://www.footmercato.net/a2197366226577777665-al-hilal-annonce-le-depart-de-karim-benzema",
-      "publishedAt": "2026-08-31T14:21:00Z",
-      "topic": "Mercato"
-    },
-    {
-      "id": "080fd3386393fb2f",
-      "title": "Liverpool s'offre Bradley Barcola pour 140 millions d'euros",
-      "summary": "Le dernier jour du mercato, l'ailier français quitte le PSG pour cinq saisons chez les Reds, dans la plus grosse vente jamais réalisée par un club de Ligue 1.",
-      "source": "Foot Mercato",
-      "url": "https://www.footmercato.net/a6486828275117763176-liverpool-casse-sa-tirelire-pour-bradley-barcola",
-      "publishedAt": "2026-08-31T13:02:00Z",
-      "keyPoints": [
-        "L'opération atteint 140 M€ bonus compris, cinquième transfert le plus cher de l'histoire.",
-        "Barcola laisse un bilan de 39 buts et 32 passes décisives en 152 matches parisiens.",
-        "Quatrième choix offensif au PSG, il cherchait avant tout du temps de jeu."
       ],
       "topic": "Mercato"
     }
