@@ -1,63 +1,35 @@
 {
   "schemaVersion": 1,
   "sport": "hockey",
-  "generatedAt": "2026-09-03T15:44:13Z",
+  "generatedAt": "2026-09-07T16:49:23Z",
   "items": [
     {
-      "id": "eef6c5fbcce6d638",
-      "title": "Huberdeau ralenti dans sa convalescence a Calgary",
-      "summary": "Le directeur general des Flames a indique que l'attaquant quebecois a connu un contretemps en patinant, environ deux semaines plus tot. Sa presence au premier match de la saison n'est plus acquise.",
-      "source": "Yahoo Sports",
-      "url": "https://sports.yahoo.com/articles/flames-announce-disappointing-health-setback-171253264.html",
-      "publishedAt": "2026-09-02T17:12:53Z",
+      "id": "5a9b072a1d7df077",
+      "title": "Caufield et Nylander dans le top 50 du réseau NHL",
+      "summary": "Le sixième segment du palmarès des 50 meilleurs joueurs de la ligue place Cole Caufield au 31e rang et William Nylander au 32e, devant les deux représentants des Jets.",
+      "source": "NHL.com",
+      "url": "https://www.nhl.com/news/topic/top-players-right-now/2026-nhl-network-countdown-top-players-numbers-40-31",
+      "publishedAt": "2026-09-07T12:00:00Z",
       "keyPoints": [
-        "Il a subi une operation de resurfacage de la hanche au mois de mars dernier.",
-        "Le camp d'entrainement des Flames s'ouvre dans moins de trois semaines.",
-        "La saison passee, il s'etait limite a 50 matchs pour 10 buts et 15 aides."
+        "Mark Scheifele et Kyle Connor occupent les 33e et 34e places.",
+        "Le gardien Ilya Sorokin se glisse au 35e rang du palmarès.",
+        "Il s'agit du sixième volet d'une série de neuf segments."
       ],
-      "topic": "Blessure"
+      "topic": "Classement"
     },
     {
-      "id": "bbf57f68264d842e",
-      "title": "Le marche de la LNH se reveille : Evangelista file au New Jersey",
-      "summary": "Nashville a echange l'attaquant Luke Evangelista aux Devils contre deux choix de repechage. C'est l'un des premiers mouvements notables du circuit depuis le debut du mois de juillet.",
-      "source": "Yahoo Sports",
-      "url": "https://sports.yahoo.com/articles/weeks-ice-nhl-trade-signing-110000382.html",
-      "publishedAt": "2026-09-02T11:00:00Z",
+      "id": "a9133b4010054650",
+      "title": "L'impasse se prolonge autour de Dylan Larkin",
+      "summary": "Trois mois après avoir demandé un échange, le capitaine des Red Wings est toujours à Detroit. Sa liste limitée à trois destinations complique la tâche d'une équipe encore sans directeur général.",
+      "source": "The Hockey News",
+      "url": "https://ca.sports.yahoo.com/news/dylan-larkin-may-greatly-overplayed-173156165.html",
+      "publishedAt": "2026-09-05T17:31:00Z",
       "keyPoints": [
-        "Les Predators recuperent un choix conditionnel de premier tour en 2028 et un choix de deuxieme tour.",
-        "Evangelista, 24 ans, sort d'une saison de 56 points, un sommet personnel.",
-        "Les Rangers ont de leur cote mis Eeli Tolvanen sous contrat pour une saison."
+        "Larkin n'accepterait un transfert que vers Vegas, le Minnesota ou la Floride.",
+        "Il lui reste cinq saisons de contrat et il vient d'avoir 30 ans.",
+        "Detroit n'a toujours pas nommé de successeur à Steve Yzerman."
       ],
       "topic": "Transaction"
-    },
-    {
-      "id": "397fdf0c55d1c36e",
-      "title": "Luke Evangelista passe des Predators aux Devils",
-      "summary": "Nashville a échangé son ailier de 24 ans au New Jersey contre un choix conditionnel de premier tour et un choix de deuxième tour au repêchage 2028.",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nhl/story/_/id/49798946/new-jersey-devils-land-evangelista-nashville-predators",
-      "publishedAt": "2026-09-02T01:48:00Z",
-      "keyPoints": [
-        "Evangelista sort d'une saison à 56 points, dont 12 buts, en 81 rencontres.",
-        "Le New Jersey n'a inscrit que 2,76 buts par match l'an dernier, sixième pire total de la ligue.",
-        "Nashville dispose désormais de deux choix de premier tour au repêchage 2028."
-      ],
-      "topic": "Transaction"
-    },
-    {
-      "id": "55b8ae8f6962e2ab",
-      "title": "Les Ducks retireront le numéro 15 de Ryan Getzlaf",
-      "summary": "Anaheim honorera son ancien capitaine le 30 janvier, lors d'une soirée face aux Predators de Nashville, quatre ans après sa retraite sportive.",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nhl/story/_/id/49797141/anaheim-ducks-retire-former-captain-ryan-getzlaf-no-15",
-      "publishedAt": "2026-09-01T22:05:00Z",
-      "keyPoints": [
-        "Getzlaf reste le meilleur pointeur de l'histoire des Ducks avec 1 019 points en 1 157 matches.",
-        "Son numéro sera le quatrième retiré par la franchise, après ceux de Selanne, Kariya et Niedermayer.",
-        "Il a porté le C pendant douze saisons, la plus longue durée dans l'histoire du club."
-      ],
-      "topic": "Hommage"
     }
   ]
 }

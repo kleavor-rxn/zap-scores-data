@@ -1,90 +1,21 @@
 {
   "schemaVersion": 1,
   "sport": "f1",
-  "generatedAt": "2026-09-03T15:44:13Z",
+  "generatedAt": "2026-09-07T16:49:23Z",
   "items": [
     {
-      "id": "e19c3e064c413833",
-      "title": "Antonelli partira du fond de grille a domicile a Monza",
-      "summary": "Mercedes monte une unite de puissance neuve sur la voiture de son leader du championnat, ce qui lui vaudra une penalite de grille dimanche. Le moteur evolue de Brixworth, lui, n'arrivera pas avant la tournee americaine.",
-      "source": "Nextgen-Auto",
-      "url": "https://motorsport.nextgen-auto.com/fr/formule-1/mercedes-f1-n-aura-pas-son-moteur-evolue-a-monza-un-appel-a-penaliser-russell,211036.html",
-      "publishedAt": "2026-09-02T15:54:00Z",
+      "id": "4b13187555aaff60",
+      "title": "Antonelli s'impose à Monza après une remontée folle",
+      "summary": "Parti du fond de grille à Monza, Kimi Antonelli a signé une victoire spectaculaire devant son coéquipier George Russell et Max Verstappen, et conforte sa position de leader du championnat.",
+      "source": "Formula 1",
+      "url": "https://www.formula1.com/en/latest/article/antonelli-beats-russell-to-italian-grand-prix-win-with-stunning-comeback-drive.15WtFEBT5JEe4drdeO88t2",
+      "publishedAt": "2026-09-06T15:11:00Z",
       "keyPoints": [
-        "Le pilote italien avait deja consomme les quatre moteurs thermiques autorises sur la saison.",
-        "Monza a ete retenu parce que ses longues lignes droites facilitent les remontees.",
-        "George Russell arrive lui aussi au bout de son quota et devrait etre penalise avant Austin."
+        "Le pilote Mercedes s'élançait du fond de grille après une pénalité liée à un changement de moteur.",
+        "Russell a terminé à 3,857 s et Verstappen à 14,718 s du vainqueur.",
+        "Charles Leclerc a abandonné dès le 2e tour après un violent contact avec les protections."
       ],
-      "topic": "Penalite"
-    },
-    {
-      "id": "a97d49aea5370944",
-      "title": "Lawson remplace encore Hadjar chez Red Bull a Monza",
-      "summary": "Toujours gene par une blessure au poignet, Isack Hadjar cede sa place a Liam Lawson pour le Grand Prix d'Italie. Yuki Tsunoda enchaine un deuxieme week-end chez Racing Bulls.",
-      "source": "Formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/lawson-to-replace-hadjar-again-at-red-bull-as-tsunoda-continues-to-substitute-for-racing-bulls-in-monza.4pI3a9wGM9uTDfK9DqRUMU",
-      "publishedAt": "2026-09-02T14:16:00Z",
-      "keyPoints": [
-        "Hadjar s'etait blesse au poignet pendant la treve estivale et manque une deuxieme course d'affilee.",
-        "Lawson avait marque des points a Zandvoort avec une septieme place au volant de la Red Bull.",
-        "Ayumu Iwasa est annonce en piste lors de la premiere seance d'essais libres, vendredi."
-      ],
-      "topic": "Blessure"
-    },
-    {
-      "id": "960c67e4944457a6",
-      "title": "Haas amène un nouveau package à Monza",
-      "summary": "Après plusieurs courses sans le moindre point, l'écurie américaine introduit ce week-end en Italie ses premières évolutions majeures depuis longtemps.",
-      "source": "Motorsport.com",
-      "url": "https://fr.motorsport.com/f1/news/haas-apporte-evolutions-monza-komatsu-redresser-barre/10851505/",
-      "publishedAt": "2026-09-02T09:18:00Z",
-      "keyPoints": [
-        "Haas n'a plus marqué le moindre point depuis Monaco en juin.",
-        "Oliver Bearman avait pourtant terminé cinquième en Chine en début de saison.",
-        "Audi, Alpine et Racing Bulls ont progressé et repoussé Haas en fond de peloton."
-      ],
-      "topic": "Technique"
-    },
-    {
-      "id": "1bebd68fd0a982d4",
-      "title": "L'Argentine relance l'idée d'un Grand Prix de F1",
-      "summary": "Le président argentin pousse pour un retour de la Formule 1 dans son pays, porté par la rénovation du circuit de Buenos Aires et la popularité de Franco Colapinto.",
-      "source": "Motorsport.com",
-      "url": "https://fr.motorsport.com/f1/news/president-milei-retour-f1-argentine/10851525/",
-      "publishedAt": "2026-09-02T08:26:00Z",
-      "keyPoints": [
-        "L'autodrome Juan y Oscar Galvez fait l'objet de 150 millions de dollars de travaux, achevés à 60 %.",
-        "Le tracé doit passer de 4,3 à 4,8 km, pour une capacité supérieure à 150 000 spectateurs.",
-        "La dernière épreuve de Formule 1 disputée en Argentine remonte à 1998."
-      ],
-      "topic": "Calendrier"
-    },
-    {
-      "id": "82da0ea4993b8962",
-      "title": "Un an sans victoire pour Oscar Piastri",
-      "summary": "L'Australien de McLaren n'a plus gagné de Grand Prix depuis Zandvoort fin août 2025, une disette d'un an qui contraste avec la forme de son coéquipier.",
-      "source": "Motorsport.com",
-      "url": "https://fr.motorsport.com/f1/news/piastri-365-jours-sans-victoire-vilaine-stat/10851350/",
-      "publishedAt": "2026-09-02T06:51:00Z",
-      "keyPoints": [
-        "Sa dernière victoire remonte au Grand Prix des Pays-Bas du 31 août 2025.",
-        "Lando Norris mène 22 à 7 en qualifications depuis cette course, avec neuf succès.",
-        "Piastri n'a pas pris le départ à Melbourne ni en Chine cette saison, pour des ennuis moteur."
-      ],
-      "topic": "Statistiques"
-    },
-    {
-      "id": "de31dc769ff5d2c2",
-      "title": "Red Bull enrôle Tom McCullough pour 2027",
-      "summary": "L'écurie autrichienne a recruté l'ingénieur d'Aston Martin comme directeur de la performance, en remplacement de Gianpiero Lambiase, à partir de la saison 2027.",
-      "source": "Motorsport.com",
-      "url": "https://fr.motorsport.com/f1/news/red-bull-tom-mccullough-remplacant-lambiase-aston-martin/10851429/",
-      "publishedAt": "2026-09-01T16:31:00Z",
-      "keyPoints": [
-        "Lambiase quitte Red Bull pour McLaren, où il occupera un poste de directeur de la compétition.",
-        "McCullough, 50 ans, a passé de longues années chez Force India, Racing Point puis Aston Martin."
-      ],
-      "topic": "Transfert"
+      "topic": "Résultat"
     }
   ]
 }

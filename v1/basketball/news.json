@@ -1,62 +1,48 @@
 {
   "schemaVersion": 1,
   "sport": "basketball",
-  "generatedAt": "2026-09-03T15:44:13Z",
+  "generatedAt": "2026-09-07T16:49:23Z",
   "items": [
     {
-      "id": "a504d70b56eae216",
-      "title": "Curry peut prolonger, Golden State lui laisse la main",
-      "summary": "Le meneur des Warriors est desormais eligible a une prolongation et la franchise le laisse choisir la formule. Aucune signature n'est intervenue a l'approche de l'ouverture du camp.",
-      "source": "Yahoo Sports",
-      "url": "https://sports.yahoo.com/articles/nba-offseason-news-trade-free-164807511.html",
-      "publishedAt": "2026-09-02T16:48:00Z",
+      "id": "365fad9323e38da8",
+      "title": "Bras de fer contractuel entre Jalen Duren et Detroit",
+      "summary": "Le pivot des Pistons et son entourage s'estiment sous-évalués : l'offre de Detroit tournerait autour de 35 M$ par saison, alors que le joueur en réclamerait au moins 40 M$.",
+      "source": "Hoops Rumors",
+      "url": "https://www.hoopsrumors.com/2026/09/central-notes-duren-buzelis-ware-bucks.html",
+      "publishedAt": "2026-09-07T13:31:00Z",
       "keyPoints": [
-        "Une prolongation de deux ans autour de 136,7 millions de dollars lui est ouverte des maintenant.",
-        "En patientant un ete de plus, il pourrait viser trois ans et 212,9 millions de dollars.",
-        "Il entame la derniere annee de son contrat actuel, a 62,6 millions de dollars."
+        "Les Pistons ne montrent aucun intérêt pour un échange par signature.",
+        "La prolongation d'Amen Thompson pourrait renforcer les exigences de Duren.",
+        "Detroit considère Ausar Thompson comme son deuxième pilier derrière Cade Cunningham."
       ],
       "topic": "Contrat"
     },
     {
-      "id": "639f945b9189bf71",
-      "title": "Sabonis change d'agent et relance les questions a Sacramento",
-      "summary": "L'interieur des Kings a confie sa representation a Aaron Mintz, de l'agence CAA. Plusieurs observateurs de la ligue y lisent le signe d'une envie de depart.",
-      "source": "Yahoo Sports",
-      "url": "https://sports.yahoo.com/articles/sacramento-kings-domantas-sabonis-could-105122549.html",
-      "publishedAt": "2026-09-02T10:51:22Z",
+      "id": "adf354864661f1d8",
+      "title": "Hyunjung Lee attendu à Portland avec un contrat Exhibit 10",
+      "summary": "L'ailier sud-coréen de 2,01 m rejoindrait les Trail Blazers pour le camp d'entraînement, avec une entente qui l'oriente surtout vers l'équipe affiliée en G League.",
+      "source": "Hoops Rumors",
+      "url": "https://www.hoopsrumors.com/2026/09/hyunjung-lee-expected-to-join-trail-blazers-on-exhibit-10-deal.html",
+      "publishedAt": "2026-09-07T12:01:00Z",
       "keyPoints": [
-        "Aaron Mintz avait pilote le depart de Trae Young d'Atlanta la saison precedente.",
-        "Sacramento n'a pas l'intention d'ouvrir de discussion de prolongation avec son pivot.",
-        "Les Kings surveillent le dossier Jalen Duren, dont les negociations bloquent a Detroit."
+        "Une entente Exhibit 10 peut rapporter jusqu'à 91 000 $ de prime après 60 jours en G League.",
+        "Lee a été élu joueur par excellence de la finale du championnat japonais.",
+        "Il avait remporté le titre de la NBL australienne avec les Illawarra Hawks en 2024-2025."
       ],
-      "topic": "Mercato"
+      "topic": "Contrat"
     },
     {
-      "id": "3c0e0f1a1f85e807",
-      "title": "Miles Bridges veut se réinventer en défense à Phoenix",
-      "summary": "Arrivé cet été chez les Suns, l'ailier dit vouloir progresser en défense et au rebond plutôt que de se reposer sur son seul apport offensif.",
-      "source": "Basket USA",
-      "url": "https://www.basketusa.com/news/922688/a-phoenix-miles-bridges-veut-franchir-un-cap-en-defense/",
-      "publishedAt": "2026-09-02T09:30:00Z",
+      "id": "f775a3fe35ab3d9a",
+      "title": "Charles Barkley annonce une dernière saison à l'antenne",
+      "summary": "L'ancien ailier fort, âgé de 63 ans, a fait savoir que la prochaine campagne serait sa dernière comme analyste, tout comme celle de l'animateur Ernie Johnson.",
+      "source": "Hoops Rumors",
+      "url": "https://www.hoopsrumors.com/2026/09/and-ones-perry-thomas-mashburn-barkley-johnson.html",
+      "publishedAt": "2026-09-06T23:36:00Z",
       "keyPoints": [
-        "Bridges tourne à 19,6 points et 6,9 rebonds de moyenne sur ses quatre dernières saisons.",
-        "Phoenix l'associe à Dillon Brooks pour durcir sa défense sur les postes extérieurs."
+        "Barkley a expliqué avoir prolongé son engagement pour protéger les emplois de l'équipe technique.",
+        "L'information a d'abord été rapportée par The Athletic."
       ],
-      "topic": "Effectif"
-    },
-    {
-      "id": "73e268be43b3311f",
-      "title": "Thanasis Antetokounmpo quitte la NBA pour la Grèce",
-      "summary": "L'ailier grec s'est engagé avec l'Aris Salonique après six saisons passées à Milwaukee, et ne rejoindra donc pas son frère Giannis à Miami.",
-      "source": "Basket USA",
-      "url": "https://www.basketusa.com/news/922632/thanasis-antetokounmpo-ne-rejoindra-pas-giannis-a-miami/",
-      "publishedAt": "2026-09-02T05:46:00Z",
-      "keyPoints": [
-        "Son contrat court sur trois ans, dont deux garantis et une option d'équipe.",
-        "Il y retrouve son frère Kostas, déjà sous les couleurs de l'Aris.",
-        "Giannis Antetokounmpo a rejoint le Heat à la fin du mois de juin."
-      ],
-      "topic": "Transfert"
+      "topic": "Médias"
     }
   ]
 }

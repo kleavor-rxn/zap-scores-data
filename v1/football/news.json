@@ -1,102 +1,49 @@
 {
   "schemaVersion": 1,
   "sport": "football",
-  "generatedAt": "2026-09-03T15:44:13Z",
+  "generatedAt": "2026-09-07T16:49:23Z",
   "items": [
     {
-      "id": "623a1d87e0711bda",
-      "title": "Manchester City s'offre Enzo Fernandez pour 125 M£",
-      "summary": "Le milieu argentin quitte Chelsea pour Manchester City contre 125 millions de livres, un montant qui egale le record de transfert au Royaume-Uni. Il s'est engage pour cinq saisons.",
+      "id": "05eb6764490b32dd",
+      "title": "Le Paris FC fait tomber l'OM au Vélodrome",
+      "summary": "Auteur d'un triplé, Lassine Sinayoko a offert au Paris FC un succès 3-2 à Marseille. Les deux réalisations d'Amine Gouiri n'ont pas suffi aux Phocéens, battus pour la deuxième fois d'affilée.",
+      "source": "Eurosport",
+      "url": "https://www.eurosport.fr/football/ligue-1/2026-2027/ligue-1-un-triple-de-lassine-sinayoko-et-lom-chute-a-domicile-contre-le-paris-fc_sto23334967/story.shtml",
+      "publishedAt": "2026-09-06T21:13:00Z",
+      "keyPoints": [
+        "Sinayoko a ouvert le score dès la 23e seconde, puis conclu sur penalty à la 86e.",
+        "Il s'agit du premier succès parisien face à Marseille depuis 48 ans.",
+        "Le Paris FC grimpe à la 2e place avec 7 points ; l'OM pointe au 10e rang."
+      ],
+      "topic": "Résultat"
+    },
+    {
+      "id": "eab2dd467146ca27",
+      "title": "Arsenal renverse Chelsea dans le derby londonien",
+      "summary": "Menés après 77 secondes sur une frappe de Morgan Rogers, les Gunners ont retourné la rencontre grâce à Kai Havertz puis à Martin Ødegaard, buteur peu après la pause à l'Emirates.",
       "source": "Sky Sports",
-      "url": "https://www.skysports.com/football/news/11679/13579972/enzo-fernandez-transfer-news-man-city-sign-midfielder-from-chelsea-in-british-record-equalling-lb125m-deal",
-      "publishedAt": "2026-09-02T16:46:00Z",
+      "url": "https://www.skysports.com/football/news/11095/13571847/arsenal-2-1-chelsea-kai-havertz-and-martin-odegaard-secure-comeback-win-for-champions-in-pulsating-london-derby",
+      "publishedAt": "2026-09-06T18:46:00Z",
       "keyPoints": [
-        "Le montant egale les 125 M£ verses par Liverpool a Newcastle pour Alexander Isak en septembre 2025.",
-        "Chelsea l'avait recrute environ 107 M£ trois ans et demi plus tot et degage donc une plus-value.",
-        "Il retrouve Enzo Maresca, qui l'avait deja dirige du cote de Chelsea."
+        "Havertz a inscrit son quatrième but en carrière contre son ancien club.",
+        "Ødegaard a marqué à la 50e minute, son deuxième de la saison.",
+        "Arsenal reste invaincu et à égalité de points avec Manchester City après trois journées."
       ],
-      "topic": "Mercato"
+      "topic": "Résultat"
     },
     {
-      "id": "9cbd4852b34f1a58",
-      "title": "Les clubs de Ligue 1 encaissent 1,33 milliard d'euros",
-      "summary": "À la clôture du marché estival, les clubs français affichent un total de ventes de 1,33 milliard d'euros, deuxième volume européen derrière la Premier League.",
-      "source": "Foot Mercato",
-      "url": "https://www.footmercato.net/a4175564941788459808-ligue-1-le-chiffre-impressionnant-des-ventes-sur-le-mercato-dete",
-      "publishedAt": "2026-09-02T09:18:00Z",
-      "keyPoints": [
-        "Les clubs anglais ont dépensé plus de 800 M€ sur le seul marché français.",
-        "Bouaddi, Barcola, Gonçalo Ramos et Fernandez-Pardo comptent parmi les plus grosses ventes."
-      ],
-      "topic": "Mercato"
-    },
-    {
-      "id": "01b2150337e08ad4",
-      "title": "Cloture du mercato anglais : Newcastle et Tottenham se renforcent",
-      "summary": "La fenetre estivale anglaise s'est refermee le 1er septembre au soir, suivie d'une vague d'officialisations. Newcastle a attire Matias Fernandez-Pardo, tandis que Tottenham a puise deux joueurs chez Chelsea.",
-      "source": "Sky Sports",
-      "url": "https://www.skysports.com/transfer/news/12691/13579708/transfer-deadline-day-deals-summer-2026-confirmed-moves-across-premier-league-championship-efl-europe-and-more",
-      "publishedAt": "2026-09-02T00:09:00Z",
-      "keyPoints": [
-        "Newcastle a debourse environ 51 M£ pour faire venir Matias Fernandez-Pardo de Lille.",
-        "Tottenham a obtenu Mykhaylo Mudryk en pret et Tosin Adarabioyo pour pres de 10 M£.",
-        "Jack Grealish repart en pret a Everton, qui cede dans le meme temps Iliman Ndiaye a Manchester City."
-      ],
-      "topic": "Mercato"
-    },
-    {
-      "id": "2378843d77c908ab",
-      "title": "Malick Fofana s'engage avec Sunderland",
-      "summary": "L'ailier belge de 21 ans quitte l'Olympique Lyonnais pour le club anglais au terme d'un feuilleton de dernière minute, contre 30 M€ assortis de 5 M€ de bonus.",
-      "source": "Maxifoot",
-      "url": "https://news.maxifoot.fr/lyon/fofana-rejoint-sunderland-officiel-foot-463152.htm",
-      "publishedAt": "2026-09-01T23:19:00Z",
-      "keyPoints": [
-        "Lyon garde 12,5 % de la plus-value sur un futur transfert du joueur.",
-        "Fofana n'avait disputé que deux rencontres de Ligue 1 cette saison, pour un but."
-      ],
-      "topic": "Mercato"
-    },
-    {
-      "id": "e489c6ff4787ef8a",
-      "title": "Manchester City s'offre Enzo Fernandez pour 125 M£",
-      "summary": "Manchester City a bouclé le recrutement du milieu argentin de Chelsea le dernier jour du mercato, pour une somme qui égale le record de transfert britannique.",
-      "source": "Sky Sports",
-      "url": "https://www.skysports.com/transfer/news/12691/13579667/enzo-fernandez-transfer-news-manchester-city-agree-lb125m-deal-to-sign-chelsea-midfielder-on-deadline-day",
-      "publishedAt": "2026-09-01T22:34:00Z",
-      "keyPoints": [
-        "Le montant de 125 M£ égale le record britannique établi par Alexander Isak vers Liverpool.",
-        "Chelsea avait acheté le joueur 107 M£ il y a trois ans et demi et dégage donc 18 M£ de plus-value.",
-        "Fernandez retrouve Enzo Maresca, son ancien entraîneur à Chelsea, passé sur le banc mancunien."
-      ],
-      "topic": "Mercato"
-    },
-    {
-      "id": "2caf82c4fb3755da",
-      "title": "Iliman Ndiaye quitte Everton pour Manchester City",
-      "summary": "Le Sénégalais s'est engagé cinq ans avec Manchester City quelques heures avant la fermeture du marché anglais, pour une indemnité de 60 M£ assortie de 5 M£ de bonus.",
+      "id": "5cf009ad952aedb4",
+      "title": "Le Barça écrase Valence et prend le large en Liga",
+      "summary": "Le FC Barcelone s'est imposé 5-0 à Mestalla avec un doublé de Lamine Yamal, complété par des buts de Fermín López, Raphinha et Pedri. Quatre matchs, quatre victoires pour le champion en titre.",
       "source": "ESPN",
-      "url": "https://www.espn.com/soccer/story/_/id/49773926/iliman-ndiaye-joins-man-city-everton",
-      "publishedAt": "2026-09-01T20:11:00Z",
+      "url": "https://www.espn.com/soccer/report/_/gameId/401882888",
+      "publishedAt": "2026-09-06T16:40:00Z",
       "keyPoints": [
-        "Ndiaye laisse derrière lui 17 buts en 74 matches sous le maillot d'Everton en deux saisons.",
-        "City s'est rabattu sur lui après avoir échoué sur la piste Cody Gakpo à Liverpool."
+        "Yamal a frappé à la 6e minute puis à la 84e.",
+        "Le club catalan totalise 12 points et compte trois longueurs d'avance en tête.",
+        "Valence ferme la marche du championnat avec un seul point pris."
       ],
-      "topic": "Mercato"
-    },
-    {
-      "id": "1a95c970bcc48295",
-      "title": "Newcastle s'offre Fernandez-Pardo à Lille pour 51 millions de livres",
-      "summary": "Le club anglais a bouclé la venue de l'attaquant belge dans les toutes dernières heures du marché des transferts, et lui a confié le numéro 20.",
-      "source": "Sky Sports",
-      "url": "https://www.skysports.com/football/news/11095/13579855/matias-fernandez-pardo-transfer-news-newcastle-sign-lille-forward-ahead-of-transfer-deadline-in-deal-worth-lb51m",
-      "publishedAt": "2026-09-01T18:48:00Z",
-      "keyPoints": [
-        "L'ailier belge de 21 ans a inscrit huit buts en 41 rencontres avec Lille la saison passée.",
-        "Newcastle porte ainsi ses dépenses estivales à 262 millions de livres.",
-        "Cette arrivée a permis à Nick Woltemade de rejoindre la Juventus en prêt payant de 3,5 M£."
-      ],
-      "topic": "Mercato"
+      "topic": "Résultat"
     }
   ]
 }
