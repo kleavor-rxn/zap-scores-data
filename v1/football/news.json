@@ -1,8 +1,49 @@
 {
   "schemaVersion": 1,
   "sport": "football",
-  "generatedAt": "2026-09-07T16:49:23Z",
+  "generatedAt": "2026-09-08T01:23:12Z",
   "items": [
+    {
+      "id": "8ed9b3b3a12bd1ef",
+      "title": "Ballon d'Or 2026 : la liste des trente nommes attendue mardi",
+      "summary": "France Football doit devoiler mardi les trente joueurs retenus pour le Ballon d'Or 2026, une annonce qui laisse planer le doute sur une douzaine de candidatures.",
+      "source": "Eurosport",
+      "url": "https://www.eurosport.fr/football/ballon-d-or/2026/ballon-dor-2026-la-liste-des-30-vinicius-torres-pacho-qui-va-sauter-dans-les-30_sto23334949/story.shtml",
+      "publishedAt": "2026-09-07T21:25:00Z",
+      "keyPoints": [
+        "Dix-huit candidatures sont jugees pratiquement acquises.",
+        "Douze noms, dont Vinicius Junior et Ferran Torres, restent incertains."
+      ],
+      "topic": "Ballon d'Or"
+    },
+    {
+      "id": "dc364bb29b39343a",
+      "title": "Manchester United rattrape a Everton dans le temps additionnel",
+      "summary": "Menant a deux reprises grace a Bryan Mbeumo puis Benjamin Sesko, Manchester United a concede le nul 2-2 a Everton sur une egalisation d'Ainsley Maitland-Niles dans les arrets de jeu.",
+      "source": "Sky Sports",
+      "url": "https://www.skysports.com/football/news/29326/13582539/everton-2-2-man-utd-gary-neville-fearful-that-manchester-uniteds-liability-of-conceding-goals-isnt-going-away",
+      "publishedAt": "2026-09-07T17:20:00Z",
+      "keyPoints": [
+        "Maitland-Niles a egalise de 25 metres pour son premier match avec Everton.",
+        "Manchester United totalise quatre points apres trois journees.",
+        "Le club a encaisse deux buts lors de chacune de ses trois premieres rencontres."
+      ],
+      "topic": "Resultat"
+    },
+    {
+      "id": "9268252cafa424d6",
+      "title": "L'OL annonce au moins trois ans pour assainir ses comptes",
+      "summary": "Le directeur general lyonnais Michael Gerlinger estime que le redressement financier du club demandera au minimum trois saisons, apres des pertes de 200 millions d'euros en 2024-2025.",
+      "source": "Eurosport",
+      "url": "https://www.eurosport.fr/football/ligue-1/2026-2027/ligue-1-au-moins-trois-ans-de-restructuration-pour-lol-selon-son-dg_sto23335206/story.shtml",
+      "publishedAt": "2026-09-07T16:11:00Z",
+      "keyPoints": [
+        "Les pertes ont recule en 2025-2026 sans revenir a l'equilibre.",
+        "Le directeur sportif Mathieu Louis-Jean chiffre les ventes de l'ete a environ 70 millions d'euros.",
+        "Le club affirme respecter l'encadrement de sa masse salariale impose par la DNCG."
+      ],
+      "topic": "Finances"
+    },
     {
       "id": "05eb6764490b32dd",
       "title": "Le Paris FC fait tomber l'OM au Vélodrome",

@@ -1,8 +1,48 @@
 {
   "schemaVersion": 1,
   "sport": "hockey",
-  "generatedAt": "2026-09-07T16:49:23Z",
+  "generatedAt": "2026-09-08T01:23:12Z",
   "items": [
+    {
+      "id": "d9f1d9e8d3ac3001",
+      "title": "Des dossiers contractuels encore ouverts avant les camps de la LNH",
+      "summary": "A l'approche des camps d'entrainement, plusieurs demandes d'echange et prolongations restent en suspens dans la LNH, du cote des vedettes comme des joueurs autonomes avec compensation.",
+      "source": "RDS",
+      "url": "https://www.rds.ca/hockey/lnh/article/des-dossiers-epineux-a-regler-avant-les-camps-dans-la-lnh/",
+      "publishedAt": "2026-09-08T00:22:00Z",
+      "keyPoints": [
+        "Connor Hellebuyck a demande publiquement d'etre echange par Winnipeg.",
+        "Dylan Larkin souhaite partir alors que Detroit cherche toujours un directeur general.",
+        "Quinn Hughes amorce la derniere annee de son contrat avec le Wild."
+      ],
+      "topic": "Contrats"
+    },
+    {
+      "id": "8f1404b738bce977",
+      "title": "Plus de peur que de mal pour l'espoir Gleb Pugachyov",
+      "summary": "Pousse tete premiere dans la bande en troisieme periode, le choix de premier tour du Canadien Gleb Pugachyov a pu terminer la rencontre, perdue 5-3 par sa formation.",
+      "source": "RDS",
+      "url": "https://www.rds.ca/hockey/canadiens/article/plus-de-peur-que-de-mal-pour-pugachyov-victime-dun-contact-dangereux/",
+      "publishedAt": "2026-09-07T19:39:00Z",
+      "keyPoints": [
+        "Il a ete reclame au 26e rang du repechage 2026 par Montreal.",
+        "Il a passe 16 minutes 25 secondes sur la glace, sans recolter de point."
+      ],
+      "topic": "Blessure"
+    },
+    {
+      "id": "62e2e404a96eb394",
+      "title": "Zharovsky ouvre son compteur en KHL avec deux mentions d'aide",
+      "summary": "L'espoir du Canadien Alexander Zharovsky a signe ses premiers points de la saison en preparant deux buts du Salavat Yulaev Ufa, vainqueur 4-0 de l'Avangard Omsk.",
+      "source": "RDS",
+      "url": "https://www.rds.ca/hockey/canadiens/article/zharovsky-le-metteur-en-scene-ouvre-son-compteur/",
+      "publishedAt": "2026-09-07T16:07:00Z",
+      "keyPoints": [
+        "Montreal l'a repeche au deuxieme tour en 2025.",
+        "Le Quebecois Guy Boucher dirige le Salavat Yulaev Ufa."
+      ],
+      "topic": "Espoirs"
+    },
     {
       "id": "5a9b072a1d7df077",
       "title": "Caufield et Nylander dans le top 50 du réseau NHL",
@@ -16,20 +56,6 @@
         "Il s'agit du sixième volet d'une série de neuf segments."
       ],
       "topic": "Classement"
-    },
-    {
-      "id": "a9133b4010054650",
-      "title": "L'impasse se prolonge autour de Dylan Larkin",
-      "summary": "Trois mois après avoir demandé un échange, le capitaine des Red Wings est toujours à Detroit. Sa liste limitée à trois destinations complique la tâche d'une équipe encore sans directeur général.",
-      "source": "The Hockey News",
-      "url": "https://ca.sports.yahoo.com/news/dylan-larkin-may-greatly-overplayed-173156165.html",
-      "publishedAt": "2026-09-05T17:31:00Z",
-      "keyPoints": [
-        "Larkin n'accepterait un transfert que vers Vegas, le Minnesota ou la Floride.",
-        "Il lui reste cinq saisons de contrat et il vient d'avoir 30 ans.",
-        "Detroit n'a toujours pas nommé de successeur à Steve Yzerman."
-      ],
-      "topic": "Transaction"
     }
   ]
 }

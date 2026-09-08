@@ -1,8 +1,50 @@
 {
   "schemaVersion": 1,
   "sport": "f1",
-  "generatedAt": "2026-09-07T16:49:23Z",
+  "generatedAt": "2026-09-08T01:23:12Z",
   "items": [
+    {
+      "id": "7d04c024cff67b47",
+      "title": "Hadjar manquera un troisieme Grand Prix, Lawson le remplace",
+      "summary": "Toujours gene par un poignet fracture lors d'un entrainement de boxe pendant la treve estivale, Isack Hadjar cede encore son baquet Red Bull a Liam Lawson pour le Grand Prix d'Espagne a Madrid.",
+      "source": "Motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/isack-hadjar-to-sit-out-third-f1-race-in-madrid-as-yuki-tsunoda-returns/10853531/",
+      "publishedAt": "2026-09-07T17:21:00Z",
+      "keyPoints": [
+        "Il a deja manque les Grands Prix des Pays-Bas et d'Italie.",
+        "Yuki Tsunoda reste au volant d'une Racing Bulls a Madrid.",
+        "Lawson avait pris la septieme place a Zandvoort."
+      ],
+      "topic": "Blessure"
+    },
+    {
+      "id": "24222228edf0e10b",
+      "title": "Antonelli triomphe a Monza et porte son avance a 66 points",
+      "summary": "Parti dix-neuvieme apres une penalite, Kimi Antonelli a remporte le Grand Prix d'Italie devant son public en depassant son coequipier George Russell dans la derniere partie de course.",
+      "source": "Motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-sends-emotional-message-to-fans-after-indescribable-italian-gp-victory/10853461/",
+      "publishedAt": "2026-09-07T14:14:00Z",
+      "keyPoints": [
+        "Il devient le premier pilote italien a s'imposer a Monza depuis 1966.",
+        "Il s'agit de sa septieme victoire de la saison 2026.",
+        "Son avance sur Russell au championnat atteint 66 points."
+      ],
+      "topic": "Resultat"
+    },
+    {
+      "id": "3d8ac2ac54177170",
+      "title": "Ferrari sous tension apres l'accrochage Hamilton-Leclerc",
+      "summary": "Pousse hors piste par Charles Leclerc des le premier tour a Monza, Lewis Hamilton a termine sixieme et reclame des regles claires entre coequipiers chez Ferrari.",
+      "source": "Motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/hamilton-says-ferrari-has-left-it-too-late-to-back-him-in-title-fight/10853210/",
+      "publishedAt": "2026-09-07T14:07:00Z",
+      "keyPoints": [
+        "Leclerc a abandonne apres une sortie de piste a la Parabolica au deuxieme tour.",
+        "Antonelli devance desormais Hamilton de 76 points au championnat.",
+        "Leclerc pointe cinquieme, a 112 points du leader."
+      ],
+      "topic": "Tension"
+    },
     {
       "id": "4b13187555aaff60",
       "title": "Antonelli s'impose à Monza après une remontée folle",
